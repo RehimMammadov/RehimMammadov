@@ -54,7 +54,7 @@
     </td>
     <td align="center" width="96"> 
         <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/> 
         </a>
         <br>PostMan
     </td>
