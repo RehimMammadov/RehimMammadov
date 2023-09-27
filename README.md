@@ -121,7 +121,7 @@
     <tr>
     <td align="center" width="96">
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/> 
+            <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="48" height="48"/> 
         </a>
       <br>Node.js
     </td>
