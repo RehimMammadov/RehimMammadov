@@ -131,6 +131,13 @@
         </a>
       <br>NestJS
     </td>
+     <td align="center" width="96">
+        <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
+            <img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-  
+            notext.svg/1869px-Python-logo-notext.svg.png)" alt="python" width="48" height="48"/> 
+        </a>
+      <br>NestJS
+    </td>
     <td align="center" width="96">
         <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="48" height="48"/> 
