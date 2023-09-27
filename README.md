@@ -112,6 +112,13 @@
         </a>
         <br>Redux
     </td>
+    <td align="center" width="96">
+        <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
+            <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextjs"     
+            width="48" height="48"/> 
+        </a>
+      <br>Next.js
+    </td>
   </tr> 
 </table>
 
@@ -124,12 +131,6 @@
             <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="48" height="48"/> 
         </a>
       <br>Node.js
-    </td>
-     <td align="center" width="96">
-        <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
-            <img src="https://spng.pngfind.com/pngs/s/430-4309256_built-on-opensource-three-js-logo-png-transparent.png" alt="expressjs" width="48" height="48"/> 
-        </a>
-      <br>Express.js
     </td>
     <td align="center" width="96">
         <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
