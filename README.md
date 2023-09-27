@@ -46,12 +46,6 @@
       </a>
       <br>Npm
     </td>
-     <td align="center" width="96"> 
-      <a href="#rahim-stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width="48" height="48" alt="github" />
-      </a>
-      <br>Github
-    </td>
     <td align="center" width="96"> 
         <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/> 
