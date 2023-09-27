@@ -63,19 +63,19 @@
             <a href="#rahim-stack">
               <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
             </a>
-            <br>Html5
+            <br>HTML5
         </td>
         <td align="center" width="96"> 
             <a href="#rahim-stack" >
               <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
             </a>
-            <br>Css3
+            <br>CSS3
         </td>
         <td align="center" width="96">
             <a href="#rahim-stack">
               <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
             </a>
-            <br>Sass
+            <br>SASS
         </td>
         <td align="center" width="96">
             <a href="#rahim-stack">
