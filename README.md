@@ -60,8 +60,7 @@
     </td>
    <td align="center" width="96"> 
         <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/800px- 
-            Visual_Studio_Icon_2022.svg.png" alt="visualstudio" width="48" height="48"/> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/800px-Visual_Studio_Icon_2022.svg.png" alt="visualstudio" width="48" height="48"/> 
         </a>
         <br>Visual Studio
     </td>
