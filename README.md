@@ -125,6 +125,12 @@
         </a>
       <br>Node.js
     </td>
+     <td align="center" width="96">
+        <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
+            <img src="https://spng.pngfind.com/pngs/s/430-4309256_built-on-opensource-three-js-logo-png-transparent.png" alt="expressjs" width="48" height="48"/> 
+        </a>
+      <br>Express.js
+    </td>
     <td align="center" width="96">
         <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="48" height="48"/> 
