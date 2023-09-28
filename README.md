@@ -13,7 +13,8 @@
 <br>
 
 
-- 🌱 I’m currently learning **Python & Django**
+- 🌱 I’m currently learning **Python & Django**.
+- In future I have planed to learn Flutter, Linux, Docker, AWS.
 
 - 📫 How to reach me **rehim.m04@gmail.com**
 
