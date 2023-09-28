@@ -22,41 +22,6 @@
   <br>
   <br>
 
- >  In Future
-
-  <table width='60%'>
-  <tr>
-   <td align="center" width="96"> 
-        <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
-            <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="flutter" width="48" height="48"/> 
-        </a>
-        <br>Flutter
-    </td>
-   <td align="center" width="96"> 
-        <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
-            <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" alt="docker" width="48" height="48"/> 
-        </a>
-        <br>Docker
-    </td>
-   <td align="center" width="96"> 
-        <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="48" height="48"/> 
-        </a>
-        <br>AWS
-    </td>
-   <td align="center" width="96"> 
-        <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" alt="linux" width="48" height="48"/> 
-        </a>
-        <br>Linux
-    </td>
-  </tr>
-  </table>
-
-
-
-<br>
-<br>
 
 
 
