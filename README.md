@@ -14,7 +14,19 @@
 
 
 - 🌱 I’m currently learning **Python & Django**.
-- In future I have planed to learn Flutter, Linux, Docker, AWS.
+- >  In Future
+
+
+  <table width='60%'>
+  <tr>
+   <td align="center" width="96"> 
+        <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
+            <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="flutter" width="48" height="48"/> 
+        </a>
+        <br>Flutter
+    </td>
+  </tr>
+  </table>
 
 - 📫 How to reach me **rehim.m04@gmail.com**
 
