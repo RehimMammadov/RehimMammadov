@@ -14,8 +14,10 @@
 
 
 - 🌱 I’m currently learning **Python & Django**.
-- >  In Future
+- 📫 How to reach me **rehim.m04@gmail.com**
+  <br>
 
+ >  In Future
 
   <table width='60%'>
   <tr>
@@ -28,7 +30,7 @@
   </tr>
   </table>
 
-- 📫 How to reach me **rehim.m04@gmail.com**
+
 
 <br>
 <br>
