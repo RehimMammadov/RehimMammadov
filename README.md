@@ -6,7 +6,7 @@
  
 <h2 align="left">Full-Stack developer from Azerbaijan.</h2>
 <a>
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="" align="right" width="350" height="300"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="" align="right" width="350" height="400"/>
 </a>
 <br>
 <br>
