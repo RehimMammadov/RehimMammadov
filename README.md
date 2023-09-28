@@ -33,7 +33,7 @@
     </td>
    <td align="center" width="96"> 
         <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
-            <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="docker" width="48" height="48"/> 
+            <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" alt="docker" width="48" height="48"/> 
         </a>
         <br>Docker
     </td>
