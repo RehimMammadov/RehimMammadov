@@ -31,6 +31,24 @@
         </a>
         <br>Flutter
     </td>
+   <td align="center" width="96"> 
+        <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
+            <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="docker" width="48" height="48"/> 
+        </a>
+        <br>Docker
+    </td>
+   <td align="center" width="96"> 
+        <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
+            <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="aws" width="48" height="48"/> 
+        </a>
+        <br>AWS
+    </td>
+   <td align="center" width="96"> 
+        <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
+            <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="linux" width="48" height="48"/> 
+        </a>
+        <br>Linux
+    </td>
   </tr>
   </table>
 
