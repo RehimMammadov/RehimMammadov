@@ -59,7 +59,13 @@
       <a href="#rahim-stack" >
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
       </a>
-      <br>Npm
+      <br>NPM
+    </td>
+   <td align="center" width="96"> 
+      <a href="#rahim-stack" >
+        <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="48" height="48" alt="yarn" />
+      </a>
+      <br>Yarn
     </td>
     <td align="center" width="96"> 
         <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
