@@ -59,7 +59,7 @@
       <a href="#rahim-stack" >
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
       </a>
-      <br>NPM
+      <br>Npm
     </td>
    <td align="center" width="96"> 
       <a href="#rahim-stack" >
