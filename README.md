@@ -135,12 +135,6 @@
     </td>
     <td align="center" width="96">
         <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="vite" width="48" height="48"/> 
-        </a>
-        <br>Vite
-    </td>
-    <td align="center" width="96">
-        <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="48" height="48"/> 
         </a>
         <br>Redux
