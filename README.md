@@ -130,7 +130,7 @@
       <a href="#rahim-stack">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
-      <br>React JS
+      <br>React 
     </td>
     </td>
     <td align="center" width="96">
