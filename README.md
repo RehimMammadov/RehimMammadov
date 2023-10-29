@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **Python & Django**.
+- 🌱 I’m currently learning **Python Django && Docker**.
 - 📫 How to reach me **rehim.m04@gmail.com**
   <br>
   <br>
@@ -78,6 +78,12 @@
             <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" width="48" height="48"/> 
         </a>
         <br>GitHub
+    </td>
+   <td align="center" width="96"> 
+        <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
+            <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="docker" width="48" height="48"/> 
+        </a>
+        <br>Docker
     </td>
   </tr> 
 </table>
