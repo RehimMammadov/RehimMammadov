@@ -81,7 +81,7 @@
     </td>
    <td align="center" width="96"> 
         <a href="#rahim-stack" target="_blank" rel="noreferrer"> 
-            <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="docker" width="48" height="48"/> 
+            <img src="https://cdn.thenewstack.io/media/2014/04/homepage-docker-logo.png" alt="docker" width="48" height="48"/> 
         </a>
         <br>Docker
     </td>
