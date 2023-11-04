@@ -112,7 +112,7 @@
         </td>
         <td align="center" width="96">
             <a href="#rahim-stack">
-              <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="54" height="54" alt="Bootstrap" />
+              <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="62" height="58" alt="Bootstrap" />
             </a>
             <br>Bootstrap
         </td>
