@@ -112,7 +112,7 @@
         </td>
         <td align="center" width="96">
             <a href="#rahim-stack">
-              <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+              <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="48" height="48" alt="Bootstrap" />
             </a>
             <br>Bootstrap
         </td>
