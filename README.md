@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Python Django**.
 - 🔜 Mobile Development using **Dart && Flutter**.
-- 🔜 DevOps Engineer using **Linux Docker && AWS**.
+- 🔜 DevOps using **Linux Docker && AWS**.
 - 📫 How to reach me **rehim.m04@gmail.com**.
   <br>
   <br>
