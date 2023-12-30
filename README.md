@@ -76,6 +76,12 @@
         <br>PostMan
     </td>
    <td align="center" width="96"> 
+        <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" alt="stack overflow" width="48" height="48"/> 
+        </a>
+        <br>Stack Overflow
+    </td>
+   <td align="center" width="96"> 
         <a href="https://github.com/" target="_blank" rel="noreferrer"> 
             <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" width="48" height="48"/> 
         </a>
