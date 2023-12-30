@@ -79,7 +79,7 @@
         <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer"> 
             <img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.16.3/1702659733200/Microsoft.VisualStudio.Services.Icons.Default" alt="thunder client" width="48" height="48"/> 
         </a>
-        <br>Trello
+        <br>ThunderClient
     </td>
    <td align="center" width="96"> 
         <a href="https://github.com/" target="_blank" rel="noreferrer"> 
