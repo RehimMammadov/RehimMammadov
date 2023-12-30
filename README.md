@@ -205,7 +205,7 @@
     </td>
      <td align="center" width="96">
         <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
-            <img src="https://storage.googleapis.com/replit/images/1627546096944_973fae2dddad90b57f7ce0f5e8b676f1.jpeg" alt="socket.io" width="48" height="48"/> 
+            <img src="https://storage.googleapis.com/replit/images/1627546096944_973fae2dddad90b57f7ce0f5e8b676f1.jpeg" alt="socket.io" width="64" height="48"/> 
         </a>
         <br>Socket.IO
     </td>
