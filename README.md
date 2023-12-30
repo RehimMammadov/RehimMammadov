@@ -197,6 +197,12 @@
         </a>
         <br>PostgreSQL
     </td>
+     <td align="center" width="96">
+        <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/prisma_icon_132076.png" alt="prisma" width="48" height="48"/> 
+        </a>
+        <br>Prisma
+    </td>
   </tr> 
 </table>
 
