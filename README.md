@@ -76,10 +76,10 @@
         <br>PostMan
     </td>
    <td align="center" width="96"> 
-        <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" alt="stack overflow" width="48" height="48"/> 
+        <a href="https://trello.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://banner2.cleanpng.com/20180621/ewt/kisspng-trello-logo-slack-atlassian-trello-5b2bcdc85e4d36.2783338815295973843863.jpg" alt="trello" width="48" height="48"/> 
         </a>
-        <br>Stack Overflow
+        <br>Trello
     </td>
    <td align="center" width="96"> 
         <a href="https://github.com/" target="_blank" rel="noreferrer"> 
