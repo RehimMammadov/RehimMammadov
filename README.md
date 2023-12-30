@@ -76,8 +76,8 @@
         <br>PostMan
     </td>
    <td align="center" width="96"> 
-        <a href="https://trello.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://c0.klipartz.com/pngpicture/26/74/gratis-png-logo-de-trello-slack-atlassian-trello.png" alt="trello" width="48" height="48"/> 
+        <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.16.3/1702659733200/Microsoft.VisualStudio.Services.Icons.Default" alt="thunder client" width="48" height="48"/> 
         </a>
         <br>Trello
     </td>
