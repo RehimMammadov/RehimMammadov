@@ -77,7 +77,7 @@
     </td>
    <td align="center" width="96"> 
         <a href="https://trello.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://w7.pngwing.com/pngs/115/721/png-transparent-trello-social-icons-icon.png" alt="trello" width="48" height="48"/> 
+            <img src="https://banner2.cleanpng.com/20181201/ib/kisspng-portable-network-graphics-trello-scalable-vector-g-5c025368ae6bb9.4395252315436562967144.jpg" alt="trello" width="48" height="48"/> 
         </a>
         <br>Trello
     </td>
