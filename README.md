@@ -205,9 +205,9 @@
     </td>
      <td align="center" width="96">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="docker" width="96" height="64"/> 
+            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="96" height="64"/> 
         </a>
-        <br>
+        <br>Docker
     </td>
     <td align="center" width="96">
         <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
