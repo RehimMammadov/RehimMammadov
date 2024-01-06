@@ -211,9 +211,9 @@
     </td>
      <td align="center" width="96">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="docker" width="72" height="48"/> 
+            <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="docker" width="72" height="64"/> 
         </a>
-        <br>Docker
+        <br>
     </td>
   </tr> 
 </table>
