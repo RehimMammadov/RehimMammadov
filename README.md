@@ -210,10 +210,10 @@
         <br>Prisma
     </td>
      <td align="center" width="96">
-        <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
-            <img src="https://socket.io/images/logo-dark.svg" alt="socket.io" width="48" height="48"/> 
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="docker" width="48" height="48"/> 
         </a>
-        <br>Socket.IO
+        <br>Docker
     </td>
   </tr> 
 </table>
