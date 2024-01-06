@@ -205,7 +205,7 @@
     </td>
      <td align="center" width="96">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://i.pinimg.com/originals/5c/bb/a7/5cbba74b40ec0c0ce77b3db3ec1a5e05.png" alt="docker" width="48" height="48"/> 
+            <img src="https://i.pinimg.com/originals/5c/bb/a7/5cbba74b40ec0c0ce77b3db3ec1a5e05.png" alt="docker" width="72" height="72"/> 
         </a>
         <br>Docker
     </td>
