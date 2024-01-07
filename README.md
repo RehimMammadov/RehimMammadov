@@ -83,7 +83,7 @@
     </td>
    <td align="center" width="96"> 
         <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://static-00.iconduck.com/assets.00/github-icon-2072x1988-jzvzcf2t.png" alt="github" width="72" height="72"/> 
+            <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" width="72" height="72"/> 
         </a>
         <br>GitHub
     </td>
@@ -96,13 +96,13 @@
     <tr>
         <td align="center" width="96">
             <a href="#rahim-stack">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a72bf1/icons/html5/html5-original.svg" width="72" height="72" alt="Html5" />
+              <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="72" height="72" alt="Html5" />
             </a>
             <br>HTML5
         </td>
         <td align="center" width="96"> 
             <a href="#rahim-stack" >
-              <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a72bf1/icons/css3/css3-original.svg" width="72" height="72" alt="css3" />
+              <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="72" height="72" alt="css3" />
             </a>
             <br>CSS3
         </td>
