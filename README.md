@@ -75,11 +75,11 @@
         </a>
         <br>PostMan
     </td>
-   <td align="center" width="96"> 
-        <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.16.3/1702659733200/Microsoft.VisualStudio.Services.Icons.Default" alt="thunder client" width="48" height="48"/> 
+   <td align="center" width="96">
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48"/> 
         </a>
-        <br>ThunderClient
+        <br>Docker
     </td>
    <td align="center" width="96"> 
         <a href="https://github.com/" target="_blank" rel="noreferrer"> 
@@ -167,17 +167,17 @@
         </a>
       <br>Node.js
     </td>
-    <td align="center" width="96">
-        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="48" height="48"/> 
-        </a>
-      <br>NestJS
-    </td>
      <td align="center" width="96">
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="48" height="48"/> 
         </a>
       <br>Python
+    </td>
+    <td align="center" width="96">
+        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="48" height="48"/> 
+        </a>
+      <br>NestJS
     </td>
     <td align="center" width="96">
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
@@ -203,11 +203,11 @@
         </a>
         <br>PostgreSQL
     </td>
-     <td align="center" width="96">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48"/> 
+     <td align="center" width="96"> 
+        <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="48" height="48"/> 
         </a>
-        <br>Docker
+        <br>GraphQL
     </td>
     <td align="center" width="96">
         <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
