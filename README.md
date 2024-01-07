@@ -75,17 +75,17 @@
         </a>
         <br>PostMan
     </td>
-   <td align="center" width="96">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48"/> 
-        </a>
-        <br>Docker
-    </td>
    <td align="center" width="96"> 
         <a href="https://github.com/" target="_blank" rel="noreferrer"> 
             <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" width="48" height="48"/> 
         </a>
         <br>GitHub
+    </td>
+   <td align="center" width="96">
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48"/> 
+        </a>
+        <br>Docker
     </td>
   </tr> 
 </table>
@@ -136,23 +136,23 @@
       </td>
       <td align="center" width="96">
       <a href="https://react.dev/">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="48" height="48" alt="React" />
       </a>
       <br>React 
     </td>
+    </td>
+  <td align="center" width="96">
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextjs"     
+            width="48" height="48"/> 
+        </a>
+      <br>Next.js
     </td>
     <td align="center" width="96">
         <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="48" height="48"/> 
         </a>
         <br>Redux
-    </td>
-    <td align="center" width="96">
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextjs"     
-            width="48" height="48"/> 
-        </a>
-      <br>Next.js
     </td>
   </tr> 
 </table>
@@ -203,17 +203,17 @@
         </a>
         <br>PostgreSQL
     </td>
+     <td align="center" width="96">
+        <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="prisma" width="48" height="48"/> 
+        </a>
+        <br>Prisma
+    </td>
      <td align="center" width="96"> 
         <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="48" height="48"/> 
         </a>
         <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="prisma" width="48" height="48"/> 
-        </a>
-        <br>Prisma
     </td>
   </tr> 
 </table>
