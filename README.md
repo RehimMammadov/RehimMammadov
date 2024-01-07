@@ -199,7 +199,7 @@
     </td>
     <td align="center" width="96">
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="48"/> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgresql" width="48" height="48"/> 
         </a>
         <br>PostgreSQL
     </td>
