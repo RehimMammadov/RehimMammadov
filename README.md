@@ -167,17 +167,17 @@
         </a>
       <br>Node.js
     </td>
-     <td align="center" width="96">
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="48" height="48"/> 
-        </a>
-      <br>Python
-    </td>
     <td align="center" width="96">
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="48" height="48"/> 
         </a>
       <br>NestJS
+    </td>
+     <td align="center" width="96">
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="48" height="48"/> 
+        </a>
+      <br>Python
     </td>
     <td align="center" width="96">
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
