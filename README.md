@@ -199,7 +199,7 @@
     </td>
     <td align="center" width="96">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql.svg" alt="mysql" width="48" height="48"/> 
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="mysql" width="48" height="48"/> 
         </a>
         <br>MySQL
     </td>
