@@ -83,7 +83,7 @@
     </td>
    <td align="center" width="96">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="64" height="64"/> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="docker" width="48" height="48"/> 
         </a>
         <br>Docker
     </td>
