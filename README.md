@@ -96,13 +96,13 @@
     <tr>
         <td align="center" width="96">
             <a href="#rahim-stack">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
+              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="Html5" />
             </a>
             <br>HTML5
         </td>
         <td align="center" width="96"> 
             <a href="#rahim-stack" >
-              <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="css3" />
             </a>
             <br>CSS3
         </td>
@@ -131,7 +131,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"             alt="typescript" width="48" height="48"/> </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"             alt="typescript" width="48" height="48"/> </a>
         <br>TypeScript
       </td>
       <td align="center" width="96">
