@@ -83,7 +83,7 @@
     </td>
    <td align="center" width="96">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="48" height="48"/> 
         </a>
         <br>Docker
     </td>
@@ -166,6 +166,12 @@
             <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="48" height="48"/> 
         </a>
       <br>Node.js
+    </td>
+     <td align="center" width="96">
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="express" width="48" height="48"/> 
+        </a>
+      <br>Express.js
     </td>
     <td align="center" width="96">
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
