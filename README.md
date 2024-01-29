@@ -181,7 +181,7 @@
     </td>
      <td align="center" width="96">
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="64" height="64"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="64" height="48"/> 
         </a>
       <br>Python
     </td>
