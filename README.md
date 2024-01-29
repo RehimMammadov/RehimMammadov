@@ -114,7 +114,7 @@
         </td>
         <td align="center" width="96">
             <a href="https://getbootstrap.com/">
-              <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="56" height="48" alt="Bootstrap" />
+              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="56" height="48" alt="Bootstrap" />
             </a>
             <br>Bootstrap
         </td>
@@ -193,13 +193,13 @@
     </td>
      <td align="center" width="96">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> 
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="mongodb" width="48" height="48"/> 
         </a>
       <br>MongoDB
     </td>
     <td align="center" width="96">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> 
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql.svg" alt="mysql" width="48" height="48"/> 
         </a>
         <br>MySQL
     </td>
