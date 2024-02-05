@@ -120,7 +120,7 @@
         </td>
             <td align="center" width="96">
             <a href="https://tailwindcss.com/">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="Bootstrap" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="Bootstrap" />
             </a>
             <br>Tailwind
         </td>
