@@ -87,12 +87,6 @@
         </a>
         <br>GitHub
     </td>
-   <td align="center" width="96">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="docker" width="84" height="48"/> 
-        </a>
-        <br>Docker
-    </td>
   </tr> 
 </table>
 
