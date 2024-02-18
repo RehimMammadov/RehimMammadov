@@ -76,6 +76,12 @@
         <br>PostMan
     </td>
    <td align="center" width="96"> 
+        <a href="https://www.beekeeperstudio.io" target="_blank" rel="noreferrer"> 
+            <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png" alt="beekeeperstudio" width="48" height="48"/> 
+        </a>
+        <br>Beekeeper
+    </td>
+   <td align="center" width="96"> 
         <a href="https://github.com/" target="_blank" rel="noreferrer"> 
             <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" width="48" height="48"/> 
         </a>
