@@ -47,7 +47,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.figma.com/" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="Figma" />
       </a>
       <br>Figma
     </td>
