@@ -135,7 +135,7 @@
         <br>TypeScript
       </td>
      <td align="center" width="96">
-        <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="angular" width="64" height="64"/> </a>
+        <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="angular" width="64" height="48"/> </a>
         <br>Angular
       </td>
       <td align="center" width="96">
