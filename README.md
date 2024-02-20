@@ -83,7 +83,7 @@
     </td>
    <td align="center" width="80"> 
         <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1980-jzvzcf2t.png" alt="github" width="48" height="48"/> 
+            <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" width="48" height="48"/> 
         </a>
         <br>GitHub
     </td>
