@@ -140,7 +140,7 @@
       </td>
       <td align="center" width="96">
       <a href="https://react.dev/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="56" height="48" alt="React" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="64" height="48" alt="React" />
       </a>
       <br>React 
     </td>
