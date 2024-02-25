@@ -149,7 +149,7 @@
             <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextjs"     
             width="48" height="48"/> 
         </a>
-      <br>Next.js
+      <br>Next
     </td>
     <td align="center" width="100">
         <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
