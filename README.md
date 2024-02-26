@@ -87,6 +87,12 @@
         </a>
         <br>GitHub
     </td>
+   <td align="center" width="100"> 
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48"/> 
+        </a>
+        <br>Docker
+    </td>
   </tr> 
 </table>
 
@@ -137,6 +143,10 @@
      <td align="center" width="100">
         <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/a/51/angular.svg" alt="angular" width="64" height="48"/> </a>
         <br>Angular
+      </td>
+     <td align="center" width="100">
+        <a href="[https://angular.io/](https://ngrx.io/)" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="ngrx" width="48" height="48"/> </a>
+        <br>NgRx
       </td>
       <td align="center" width="100">
       <a href="https://react.dev/" target="_blank" rel="noreferrer">
