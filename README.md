@@ -139,7 +139,7 @@
         <br>Angular
       </td>
      <td align="center" width="100">
-        <a href="[https://angular.io/](https://ngrx.io/)" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="ngrx" width="48" height="48"/> </a>
+        <a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="ngrx" width="48" height="48"/> </a>
         <br>NgRx
       </td>
       <td align="center" width="100">
