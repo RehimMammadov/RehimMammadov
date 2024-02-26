@@ -118,12 +118,6 @@
             </a>
             <br>SASS
         </td>
-        <td align="center" width="100">
-            <a href="https://getbootstrap.com/">
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="56" height="48" alt="Bootstrap" />
-            </a>
-            <br>Bootstrap
-        </td>
             <td align="center" width="100">
             <a href="https://tailwindcss.com/">
               <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="Bootstrap" />
