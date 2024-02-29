@@ -201,8 +201,8 @@
         </a>
     </td>
      <td align="center" width="100">
-        <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mariadb_logo_icon_170968.png" alt="mariadb" width="48" height="48"/> 
+        <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
+            <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="firebase" width="48" height="48"/> 
         </a>
     </td>
      <td align="center" width="100">
