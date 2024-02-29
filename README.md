@@ -39,36 +39,66 @@
  
 <table width='100%' background='#1a1b27'>
   <tr>
+   <td align="center" width="100"> 
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudiocode" width="48" height="48"/> 
         </a>
+        <br>VS Code
+    </td>
+   <td align="center" width="100"> 
         <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1000px-Visual_Studio_Icon_2022.svg.png" alt="visualstudio" width="48" height="48"/> 
         </a>
+        <br>VStudio
+    </td>
+    <td align="center" width="100">
       <a href="https://www.figma.com/" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="Figma" />
       </a>
+      <br>Figma
+    </td>
+    <td align="center" width="100">
       <a href="https://git-scm.com/" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
+      <br>Git
+    </td>
+    <td align="center" width="100"> 
       <a href="https://www.npmjs.com/" >
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
       </a>
+      <br>Npm
+    </td>
+   <td align="center" width="100"> 
       <a href="https://yarnpkg.com/" >
         <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="48" height="48" alt="yarn" />
       </a>
+      <br>Yarn
+    </td>
+    <td align="center" width="100"> 
         <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/> 
         </a>
+        <br>PostMan
+    </td>
+   <td align="center" width="100"> 
         <a href="https://www.beekeeperstudio.io" target="_blank" rel="noreferrer"> 
             <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png" alt="beekeeperstudio" width="48" height="48"/> 
         </a>
+        <br>Beekeeper
+    </td>
+   <td align="center" width="100"> 
         <a href="https://github.com/" target="_blank" rel="noreferrer"> 
             <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" width="48" height="48"/> 
         </a>
+        <br>GitHub
+    </td>
+   <td align="center" width="100"> 
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48"/> 
         </a>
+        <br>Docker
+    </td>
   </tr> 
 </table>
 
