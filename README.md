@@ -37,7 +37,7 @@
 
 >  General
  
-<table width='100%'>
+<table width='100%' background="#1a1b27">
   <tr>
    <td align="center" width="100"> 
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
