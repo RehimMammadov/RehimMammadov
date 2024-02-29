@@ -77,6 +77,11 @@
         </a>
     </td>
    <td align="center" width="100"> 
+        <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
+            <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="48" height="48"/> 
+        </a>
+    </td>
+   <td align="center" width="100"> 
         <a href="https://www.beekeeperstudio.io" target="_blank" rel="noreferrer"> 
             <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png" alt="beekeeperstudio" width="48" height="48"/> 
         </a>
@@ -193,6 +198,11 @@
     <td align="center" width="100">
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="postgresql" width="48" height="48"/> 
+        </a>
+    </td>
+     <td align="center" width="100">
+        <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://static-00.iconduck.com/assets.00/mariadb-icon-512x340-txozryr2.png" alt="mariadb" width="48" height="48"/> 
         </a>
     </td>
      <td align="center" width="100">
