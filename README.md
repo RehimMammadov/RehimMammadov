@@ -102,62 +102,51 @@
             <a href="#rahim-stack">
               <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="Html5" />
             </a>
-            <br>HTML5
         </td>
         <td align="center" width="100"> 
             <a href="#rahim-stack" >
               <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="css3" />
             </a>
-            <br>CSS3
         </td>
         <td align="center" width="100">
             <a href="https://sass-lang.com/">
               <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
             </a>
-            <br>SASS
         </td>
             <td align="center" width="100">
             <a href="https://tailwindcss.com/">
               <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="Bootstrap" />
             </a>
-            <br>Tailwind
         </td>
     <td align="center" width="100">
       <a href="#rahim-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript"/>
       </a>
-      <br>JavaScript
     </td>
     <td align="center" width="100">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"             alt="typescript" width="48" height="48"/> </a>
-        <br>TypeScript
       </td>
      <td align="center" width="100">
         <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/a/51/angular.svg" alt="angular" width="64" height="48"/> </a>
-        <br>Angular
       </td>
      <td align="center" width="100">
         <a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="ngrx" width="48" height="48"/> </a>
-        <br>NgRx
       </td>
       <td align="center" width="100">
       <a href="https://react.dev/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/452092/react.svg" width="60" height="48" alt="React" />
       </a>
-      <br>React 
     </td>
   <td align="center" width="100">
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
             <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextjs"     
             width="48" height="48"/> 
         </a>
-      <br>Next.js
     </td>
     <td align="center" width="100">
         <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="48" height="48"/> 
         </a>
-        <br>Redux
     </td>
   </tr> 
 </table>
@@ -170,61 +159,51 @@
         <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
             <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="48" height="48"/> 
         </a>
-      <br>Node.js
     </td>
      <td align="center" width="100">
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="express" width="48" height="48"/> 
         </a>
-      <br>Express.js
     </td>
     <td align="center" width="100">
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
             <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" width="48" height="48"/> 
         </a>
-      <br>NestJS
     </td>
      <td align="center" width="100">
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="48" height="48"/> 
         </a>
-      <br>Python
     </td>
     <td align="center" width="100">
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="48" height="48"/> 
         </a>
-      <br>Django 
     </td>
      <td align="center" width="100">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="mongodb" width="48" height="48"/> 
         </a>
-      <br>MongoDB
     </td>
     <td align="center" width="100">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="mysql" width="48" height="48"/> 
         </a>
-        <br>MySQL
     </td>
     <td align="center" width="100">
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="postgresql" width="48" height="48"/> 
         </a>
-        <br>PostgreSQL
     </td>
      <td align="center" width="100">
         <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
             <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="prisma" width="48" height="48"/> 
         </a>
-        <br>Prisma
     </td>
      <td align="center" width="100"> 
         <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="48" height="48"/> 
         </a>
-        <br>GraphQL
     </td>
   </tr> 
 </table>
