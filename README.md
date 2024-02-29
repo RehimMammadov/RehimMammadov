@@ -127,14 +127,14 @@
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"             alt="typescript" width="48" height="48"/> </a>
       </td>
      <td align="center" width="100">
-        <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/a/51/angular.svg" alt="angular" width="64" height="48"/> </a>
+        <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/a/51/angular.svg" alt="angular" width="48" height="48"/> </a>
       </td>
      <td align="center" width="100">
         <a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="ngrx" width="48" height="48"/> </a>
       </td>
       <td align="center" width="100">
       <a href="https://react.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/452092/react.svg" width="60" height="48" alt="React" />
+        <img src="https://www.svgrepo.com/show/452092/react.svg" width="48" height="48" alt="React" />
       </a>
     </td>
   <td align="center" width="100">
