@@ -2,7 +2,7 @@
 
 <br>
 
-<h2 align="left">A passionate full-stack developer from Azerbaijan</h2>
+<h2 align="left">A passionate backend developer from Azerbaijan</h2>
 <br>
 <div>
 
@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **Angular**
 - 🔜 Mobile Development using **Dart && Flutter**
 - 🔜 DevOps using **Linux Docker && AWS**
-- 💬 Ask me about **JavaScript, TypeScript, React, Next, Node.js, NestJS**
+- 💬 Ask me about **TypeScript, Next, Node.js, NestJS, GraphQL, Prisma**
 - 📫 How to reach me **rehim.m04@gmail.com**
 - ⚡ Fun fact I am a fan of <b><i>Lewis Hamilton🏆🏆🏆🏆🏆🏆🏆🏁🏎️</i></b>
   <br>
