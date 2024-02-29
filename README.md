@@ -2,7 +2,7 @@
 
 <br>
 
-<h2 align="left">Full-Stack developer from Azerbaijan.</h2>
+<h2 align="left">A passionate full-stack developer from Azerbaijan</h2>
 <br>
 <div>
 
@@ -19,10 +19,12 @@
 </a>
 
 - 🔭 I’m currently working on GoldenPay MMC
-- 🌱 I’m currently learning **Angular**.
-- 🔜 Mobile Development using **Dart && Flutter**.
-- 🔜 DevOps using **Linux Docker && AWS**.
-- 📫 How to reach me **rehim.m04@gmail.com**.
+- 🌱 I’m currently learning **Angular**
+- 🔜 Mobile Development using **Dart && Flutter**
+- 🔜 DevOps using **Linux Docker && AWS**
+- 💬 Ask me about **JavaScript, TypeScript, React, Next, Node.js, NestJS**
+- 📫 How to reach me **rehim.m04@gmail.com**
+- ⚡ Fun fact I am fan of Lewis Hamilton
   <br>
   <br>
   <br>
