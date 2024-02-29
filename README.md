@@ -39,7 +39,7 @@
  
 <table width='100%'>
   <tr>
-   <td align="center"> 
+   <td align="center" width="100"> 
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudiocode" width="48" height="48"/> 
         </a>
