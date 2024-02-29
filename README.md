@@ -202,7 +202,7 @@
     </td>
      <td align="center" width="100">
         <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="mariadb" width="48" height="48"/> 
+            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mariadb_logo_icon_170968.png" alt="mariadb" width="48" height="48"/> 
         </a>
     </td>
      <td align="center" width="100">
