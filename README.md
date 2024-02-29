@@ -24,7 +24,7 @@
 - 🔜 DevOps using **Linux Docker && AWS**
 - 💬 Ask me about **JavaScript, TypeScript, React, Next, Node.js, NestJS**
 - 📫 How to reach me **rehim.m04@gmail.com**
-- ⚡ Fun fact I am a fan of <b><i>Lewis Hamilton🏆🏆🏆🏆🏆🏆🏆</i></b> and <b><i>F1🏎️🏁</i></b>
+- ⚡ Fun fact I am a fan of <b><i>Lewis Hamilton🏆🏆🏆🏆🏆🏆🏆</i></b> and <b><i>F1🏎️</i></b>
   <br>
   <br>
   <br>
