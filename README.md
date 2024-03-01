@@ -18,7 +18,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="" align="right" width="350" height="250"/>
 </a>
 
-- 🔭 I’m currently working on <p href="https://www.goldenpay.az/">GoldenPay MMC</p> 
+- 🔭 I’m currently working on GoldenPay MMC
 - 🌱 I’m currently learning **Angular**
 - 🔜 Mobile Development using **Dart && Flutter**
 - 🔜 DevOps using **Linux Docker && AWS**
