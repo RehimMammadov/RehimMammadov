@@ -19,7 +19,7 @@
 </a>
 
 - 🔭 I’m currently working on GoldenPay MMC
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular && RX.js**
 - 🔜 Mobile Development using **Swift && Flutter**
 - 💬 Ask me about **TypeScript, Next.js, Node.js, NestJS, GraphQL**
 - 📫 How to reach me **rehim.m04@gmail.com**
