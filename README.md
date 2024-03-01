@@ -20,8 +20,7 @@
 
 - 🔭 I’m currently working on GoldenPay MMC
 - 🌱 I’m currently learning **Angular**
-- 🔜 Mobile Development using **Dart && Flutter**
-- 🔜 DevOps using **Linux Docker && AWS**
+- 🔜 Mobile Development using **Swift && Flutter**
 - 💬 Ask me about **TypeScript, Next.js, Node.js, NestJS, GraphQL**
 - 📫 How to reach me **rehim.m04@gmail.com**
 - ⚡ Fun fact I am a fan of <b><i>Lewis Hamilton🏆🏆🏆🏆🏆🏆🏆🏁🏎️</i></b>
