@@ -40,15 +40,21 @@
  
 <table width='100%'>
   <tr>
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+   <td align="center" width="100">
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudiocode" width="48" height="48"/> 
         </a>
-        <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
+    </td>
+   <td align="center" width="100">
+       <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1000px-Visual_Studio_Icon_2022.svg.png" alt="visualstudio" width="48" height="48"/> 
         </a>
-      <a href="https://www.figma.com/" >
+    </td>
+   <td align="center" width="100">
+       <a href="https://www.figma.com/" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="Figma" />
       </a>
+    </td>    
     <td align="center" width="100">
       <a href="https://git-scm.com/" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
