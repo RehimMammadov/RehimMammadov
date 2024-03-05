@@ -145,9 +145,8 @@
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="mysql" width="48" height="48" min-width="44" /> 
         </a>
      <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://brandslogos.com/wp-content/uploads/images/large/mariadb-logo-black-and-white.png" alt="mariadb" width="64" height="48" min-width="44" /> 
+            <img src="https://brandslogos.com/wp-content/uploads/images/large/mariadb-logo-black-and-white.png" alt="mariadb" width="56" height="48" min-width="44" /> 
         </a>
-     
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="postgresql" width="48" height="48" min-width="44" /> 
         </a>
