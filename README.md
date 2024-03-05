@@ -151,10 +151,10 @@
             <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="firebase" width="48" height="48" min-width="44" /> 
         </a>
 <!--         <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="socket" width="48" height="48" min-width="44" /> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="socket" width="48" height="48" min-width="44" /> 
         </a> -->
      <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="prisma" width="48" height="48" min-width="44" /> 
+            <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="prisma" width="48" height="48" min-width="44" /> 
         </a>
         <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="48" height="48" min-width="44" /> 
