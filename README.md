@@ -99,6 +99,12 @@
             <a href="https://tailwindcss.com/">
               <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="tailwind" min-width="44" />
             </a>
+           <a href="https://materializecss.com/">
+              <img src="https://colinstodd.com/images/posts/matcss-min.png" width="48" height="48" alt="materialize" min-width="44" />
+            </a>
+            <a href="https://mui.com/">
+              <img src="https://mui.com/static/logo.png" width="48" height="48" alt="mui" min-width="44" />
+            </a>
       <a href="#rahim-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" min-width="44" />
       </a>  
