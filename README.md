@@ -57,7 +57,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" min-width="44" alt="Git" />
       </a>
       <a href="https://www.npmjs.com/" >
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" min-width="44" />
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" width="48" height="48" alt="npm" min-width="44" />
       </a>
       <a href="https://yarnpkg.com/" >
         <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="48" height="48" alt="yarn" min-width="44" />
