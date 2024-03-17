@@ -19,8 +19,8 @@
 </a>
 
 
-- 🔭 I’m currently working in GoldenPay OJSC
-- 🔭 I’m currently working in Start-up Bamper.az
+- 🔭 I’m currently working in **GoldenPay OJSC**
+- 🔭 I’m currently working in Start-up **Bamper.az**
 - 🌱 I’m currently learning **Angular && NgRx**
 - 🔜 Mobile Development using **Swift && Flutter**
 - 💬 Ask me about **TypeScript, Next.js, Node.js, NestJS, GraphQL**
