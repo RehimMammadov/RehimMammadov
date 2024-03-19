@@ -45,7 +45,7 @@
 <table width='100%'>
   <tr>
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudiocode" width="44" height="44"/> 
+            <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" alt="visualstudiocode" width="44" height="44"/> 
         </a>
        <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1000px-Visual_Studio_Icon_2022.svg.png" alt="visualstudio" width="48" height="48" min-width="44"/> 
