@@ -170,10 +170,12 @@
 </table>
 
 <br>
-##:comet: Contact
-<a href="#">
-  <img align="right"/>
-</a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[https://www.linkedin.com/in/nicat-majidov-029bb02ab](https://www.linkedin.com/in/rahim-mammadov-a79991269/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_rahimos_44/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</p>
 
 
 - :camera: &nbsp;**[Instagram](https://www.instagram.com/_rahimos_44/)**
