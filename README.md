@@ -62,6 +62,9 @@
       <a href="https://yarnpkg.com/" >
         <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="48" height="48" alt="yarn" min-width="44" />
       </a> 
+      <a href="https://pnpm.io/" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ20i_M7GwTGQ6etPOcUnY4MzOmQRIZs_A_L3pa-wUxSg&s" width="48" height="48" alt="pnpm" min-width="44" />
+      </a> 
         <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48" min-width="44" /> 
         </a>
