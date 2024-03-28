@@ -159,9 +159,12 @@
         <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
             <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="firebase" width="48" height="48" min-width="44" /> 
         </a>
-<!--         <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
+     <a href="https://www.passportjs.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://toppng.com/uploads/preview/passport-logo-11609371722wvxwh4o10u.png" alt="passport" width="48" height="48" min-width="44" /> 
+        </a>
+        <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="socket" width="48" height="48" min-width="44" /> 
-        </a> -->
+        </a>
      <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
             <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="prisma" width="48" height="48" min-width="44" /> 
         </a>
