@@ -166,7 +166,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="socket" width="48" height="48" min-width="44" /> 
         </a>
      <a href="https://www.passportjs.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.worldvectorlogo.com/logos/passport.svg" alt="passport" width="48" height="48" min-width="44" /> 
+            <img src="https://cdn.worldvectorlogo.com/logos/passport.svg" alt="passport" width="48" height="48" min-width="44" style="padding: 5px;" /> 
         </a>
      <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
             <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="firebase" width="48" height="48" min-width="44" /> 
