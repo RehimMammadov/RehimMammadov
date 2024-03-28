@@ -81,7 +81,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="48" height="48" min-width="44" /> 
         </a>
         <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" alt="aws" padding="10" width="48" height="48" min-width="44"/> 
+            <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png?f=webp" alt="aws" padding="10" width="48" height="48" min-width="44"/> 
         </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48" min-width="44" /> 
