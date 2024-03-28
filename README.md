@@ -1,4 +1,4 @@
-![image](https://github.com/RehimMammadov/RehimMammadov/assets/136712079/15ca06dd-1cdc-464b-9193-f70f1c2d09d4)<h1 align="left">Hi 👋, I'm Rahim Mammadov.</h1>
+<h1 align="left">Hi 👋, I'm Rahim Mammadov.</h1>
 
 <br>
 
