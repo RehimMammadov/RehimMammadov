@@ -47,9 +47,6 @@
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" alt="visualstudiocode" width="44" height="44"/> 
         </a>
-       <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1000px-Visual_Studio_Icon_2022.svg.png" alt="visualstudio" width="48" height="48" min-width="44"/> 
-        </a>
        <a href="https://www.figma.com/" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="Figma" min-width="44" />
       </a>   
@@ -82,6 +79,9 @@
         </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
             <img src="https://brandslogos.com/wp-content/uploads/images/linux-tux-logo-vector-1.svg" alt="linux" width="48" height="48" min-width="44" /> 
+        </a>
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://midwestcommunityday.com/wp-content/uploads/2019/04/awslogo.png" alt="aws" width="48" height="48" min-width="44"/> 
         </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48" min-width="44" /> 
