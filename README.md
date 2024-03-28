@@ -81,7 +81,7 @@
             <img src="https://brandslogos.com/wp-content/uploads/images/linux-tux-logo-vector-1.svg" alt="linux" width="48" height="48" min-width="44" /> 
         </a>
         <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://midwestcommunityday.com/wp-content/uploads/2019/04/awslogo.png" alt="aws" width="84" height="48" min-width="44"/> 
+            <img src="https://media.premaccess.com/2022/03/17162326/amazon-web-service-aws-partenaire-premaccess.png" alt="aws" width="48" height="48" min-width="44"/> 
         </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48" min-width="44" /> 
