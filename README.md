@@ -78,10 +78,10 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="48" height="48" min-width="44" /> 
         </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://brandslogos.com/wp-content/uploads/images/linux-tux-logo-vector-1.svg" alt="linux" width="48" height="48" min-width="44" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="48" height="48" min-width="44" /> 
         </a>
         <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://media.premaccess.com/2022/03/17162326/amazon-web-service-aws-partenaire-premaccess.png" alt="aws" width="48" height="48" min-width="44"/> 
+            <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" alt="aws" width="48" height="48" min-width="44"/> 
         </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48" min-width="44" /> 
