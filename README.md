@@ -168,7 +168,9 @@
         <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="48" height="48" min-width="44" /> 
         </a>
-
+        <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="apollo" width="48" height="48" min-width="44" /> 
+        </a>
   </tr> 
 </table>
 
