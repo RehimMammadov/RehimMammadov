@@ -77,6 +77,12 @@
         <a href="https://github.com/" target="_blank" rel="noreferrer"> 
             <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" width="48" height="48" min-width="44" /> 
         </a>
+        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="48" height="48" min-width="44" /> 
+        </a>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://brandslogos.com/wp-content/uploads/images/linux-tux-logo-vector-1.svg" alt="linux" width="48" height="48" min-width="44" /> 
+        </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48" min-width="44" /> 
         </a>
