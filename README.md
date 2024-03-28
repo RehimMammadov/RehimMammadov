@@ -169,7 +169,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="48" height="48" min-width="44" /> 
         </a>
         <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="apollo" width="48" height="48" min-width="44" /> 
+            <img src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png" alt="apollo" width="48" height="48" min-width="44" /> 
         </a>
   </tr> 
 </table>
