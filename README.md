@@ -165,11 +165,11 @@
      <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
             <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="prisma" width="48" height="48" min-width="44" /> 
         </a>
-        <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="48" height="48" min-width="44" /> 
-        </a>
         <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.brighttalk.com/ams/california/images/channel/19370/image_826795.png?width=300&height=300" alt="apollo" width="48" height="48" min-width="44" /> 
+        </a>
+        <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="48" height="48" min-width="44" /> 
         </a>
   </tr> 
 </table>
