@@ -88,7 +88,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working in **GoldenPay OJSC**<br><br>🌱 I’m currently learning **Angular && NgRx**<br><br>🔜 Mobile Development using **Swift && Flutter**<br><br>💬 Ask me about **TypeScript, Next.js, Node.js, NestJS, GraphQL**<br><br>📫 How to reach me **rehim.m04@gmail.com**<br><br>⚡ Fun fact I am a fan of <b><i>Lewis Hamilton🏆🏆🏆🏆🏆🏆🏆🏁🏎️</i></b></h4>
+<h5 align="left">🔭 I’m currently working in **GoldenPay OJSC**<br><br>🌱 I’m currently learning **Angular && NgRx**<br><br>🔜 Mobile Development using **Swift && Flutter**<br><br>💬 Ask me about **TypeScript, Next.js, Node.js, NestJS, GraphQL**<br><br>📫 How to reach me **rehim.m04@gmail.com**<br><br>⚡ Fun fact I am a fan of <b><i>Lewis Hamilton🏆🏆🏆🏆🏆🏆🏆🏁🏎️</i></b></h5>
 
 ###
 
