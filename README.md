@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h5 align="left">🔭 I’m currently working in GoldenPay OJSC<br>🔭 I’m currently working in Start-up Bamper.az<br>🌱 I’m currently learning Angular && NgRx<br>🔜 Mobile Development using Swift && Flutter<br>💬 Ask me about TypeScript, Next.js, Node.js, NestJS, GraphQL<br>📫 How to reach me rehim.m04@gmail.com<br>⚡ Fun fact I am a fan of Lewis Hamilton🏆🏆🏆🏆🏆🏆🏆🏁🏎</h5>
+<h4 align="left">🔭 I’m currently working in GoldenPay OJSC<br>🔭 I’m currently working in Start-up Bamper.az<br>🌱 I’m currently learning Angular && NgRx<br>🔜 Mobile Development using Swift && Flutter<br>💬 Ask me about TypeScript, Next.js, Node.js, NestJS, GraphQL<br>📫 How to reach me rehim.m04@gmail.com<br>⚡ Fun fact I am a fan of Lewis Hamilton🏆🏆🏆🏆🏆🏆🏆🏁🏎</h4>
 
 ###
 
