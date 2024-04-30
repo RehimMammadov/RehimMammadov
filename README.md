@@ -10,7 +10,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RehimMammadov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-![](https://github-profile-trophy.vercel.app/?username=SalahovaAyshen&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 
 <br>
