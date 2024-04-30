@@ -4,12 +4,12 @@
 
 <br clear="both">
 
-<h4 align="left">🔭 I’m currently working in GoldenPay OJSC<br>🔭 I’m currently working in Start-up Bamper.az<br>🌱 I’m currently learning Angular && NgRx<br>🔜 Mobile Development using Swift && Flutter<br>💬 Ask me about TypeScript, Next.js, Node.js, NestJS, GraphQL<br>📫 How to reach me rehim.m04@gmail.com<br>⚡ Fun fact I am a fan of Lewis Hamilton🏆🏆🏆🏆🏆🏆🏆🏁🏎</h4>
+<p align="left">🔭 I’m currently working in GoldenPay OJSC<br>🔭 I’m currently working in Start-up Bamper.az<br>🌱 I’m currently learning Angular && NgRx<br>🔜 Mobile Development using Swift && Flutter<br>💬 Ask me about TypeScript, Next.js, Node.js, NestJS, GraphQL<br>📫 How to reach me rehim.m04@gmail.com<br>⚡ Fun fact I am a fan of Lewis Hamilton🏆🏆🏆🏆🏆🏆🏆🏁🏎</p>
 
 ###
 
 <div align="center">
-  <img height="350" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
 </div>
 
 ###
