@@ -110,6 +110,6 @@ src="https://camo.githubusercontent.com/5ef90fb7e911654d9bcae25dc8d7e1f740c73019
 
 <br clear="both">
 
-![snake animation](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
 ###
