@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Rahim Mammadov and I'm a Passionate Frontend Developer from Azerbaijan</h2>
+<h2 align="center">Hi There👋! My name is Rahim Mammadov and I'm a Passionate Frontend Developer from Azerbaijan</h2>
 
 ###
 
