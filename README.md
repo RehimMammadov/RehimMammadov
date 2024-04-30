@@ -72,8 +72,7 @@
   <img 
 src="https://camo.githubusercontent.com/5ef90fb7e911654d9bcae25dc8d7e1f740c7301905815fffe5570ad3a4b845ed/68747470733a2f2f7374617469632d30302e69636f6e6475636b2e636f6d2f6173736574732e30302f6769746875622d69636f6e2d3230343878313938382d6a7a767a636632742e706e67" height="48" alt="github logo"  />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/753324e0762efec526db9eb33eb7b5cd3cc10458db94ff63eb9758e004c2b605/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4e2f6e6f64656a732d6c6f676f2d464245313232453337372d7365656b6c6f676f2e636f6d2e706e67"   
-  height="48" alt="node.js logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="48" alt="node.js logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="figma logo"  />
   <img width="12" />
