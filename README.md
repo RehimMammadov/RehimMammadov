@@ -10,6 +10,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RehimMammadov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SalahovaAyshen&theme=darcula&no-frame=true&no-bg=true&margin-w=4)
+
 
 <br>
 <br>
@@ -17,6 +19,7 @@
 <a>
  
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" style="margin-bottom: 20px;max-width: 100%;display: inline-block;" alt="" align="right" width="350" height="250">
+
 <!--  <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/270/574/509.gif" style="margin-bottom: 20px;max-width: 100%;display: inline-block;" alt="" align="right" width="350" height="250"/> -->
 </a>
 
