@@ -1,213 +1,105 @@
-<h1 align="left">Hi 👋, I'm Rahim Mammadov.</h1>
+<h2 align="center">Hi 👋! My name is Rahim Mammadov and I'm a Passionate Frontend Developer from Azerbaijan</h2>
 
-<br>
+###
 
-<h2 align="left">A passionate backend developer from Azerbaijan</h2>
-<br>
-<div>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RehimMammadov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=RehimMammadov&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RehimMammadov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RehimMammadov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react logo"  />
+ <img src="https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" height="48" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="48" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://camo.githubusercontent.com/c65a976054cca7cf6d0a8561ec6a0d2759b6762319584f27c6244dda5ff89f86/68747470733a2f2f7777772e64727570616c2e6f72672f66696c65732f70726f6a6563742d696d616765732f6e6578746a732d69636f6e2d6461726b2d6261636b67726f756e642e706e67" height="48" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="48" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="48" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" height="48" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="48" alt="typescript logo"  />
+ <img src="https://camo.githubusercontent.com/f5c3fc78d64f03840113d78181c6ab430830b8856a9cb2493572c8d81cbfdc5c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6772782e737667" height="48" alt="ngrx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="48" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://camo.githubusercontent.com/c180a7417c3fa68b908d550d8ecd4063d53b6b1bbc4914b0910dfc8f00a424fb/68747470733a2f2f7777772e63646e6c6f676f2e636f6d2f6c6f676f732f612f35312f616e67756c61722e737667" height="48" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="48" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://camo.githubusercontent.com/c96cb99431280ee1fdce3fe6b5338c5aca7bcaf94331b7426803ac9b426f6cef/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646a616e676f2e737667" height="48" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="48" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://camo.githubusercontent.com/a4715aa6db1be160c6cb7999a8549689fb230b4db7fe87c8b2d813d06f69b762/68747470733a2f2f646f63732e6e6573746a732e636f6d2f6173736574732f6c6f676f2d736d616c6c2e737667" height="48" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="48" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="48" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://camo.githubusercontent.com/6c30a7d0eccbfaa1a79bae07ba7feb0af19211035bd3d6709c9b857c88c30992/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3337343030322f707269736d612e737667" height="48" alt="prisma logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="48" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="48" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="48" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="48" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" alt="sass logo"  />
+  <img width="12" />
+   <img src="https://camo.githubusercontent.com/3a97eba36308c05933b752ab211f94578e544d4e4e2b2dfa2355fc19dfeb7ce8/68747470733a2f2f63646e2e62726967687474616c6b2e636f6d2f616d732f63616c69666f726e69612f696d616765732f6368616e6e656c2f31393337302f696d6167655f3832363739352e706e673f77696474683d333030266865696768743d333030" height="48" alt="apollo logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" alt="firebase logo"  />
+</div>
 
-<br>
-<br>
- 
-<a>
- 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" style="margin-bottom: 20px;max-width: 100%;display: inline-block;" alt="" align="right" width="350" height="250">
+###
 
-<!--  <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/270/574/509.gif" style="margin-bottom: 20px;max-width: 100%;display: inline-block;" alt="" align="right" width="350" height="250"/> -->
-</a>
+<div align="left">
+  <a href="https://www.instagram.com/_rahimos_44/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rahim-mammadov-a79991269/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
-- 🔭 I’m currently working in **GoldenPay OJSC**
-- 🔭 I’m currently working in Start-up **Bamper.az**
-- 🌱 I’m currently learning **Angular && NgRx**
-- 🔜 Mobile Development using **Swift && Flutter**
-- 💬 Ask me about **TypeScript, Next.js, Node.js, NestJS, GraphQL**
-- 📫 How to reach me **rehim.m04@gmail.com**
-- ⚡ Fun fact I am a fan of <b><i>Lewis Hamilton🏆🏆🏆🏆🏆🏆🏆🏁🏎️</i></b>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
 
+###
 
+<h2 align="left">🔭 I’m currently working in **GoldenPay OJSC**<br>🌱 I’m currently learning **Angular && NgRx**<br>🔜 Mobile Development using **Swift && Flutter**<br>💬 Ask me about **TypeScript, Next.js, Node.js, NestJS, GraphQL**<br>📫 How to reach me **rehim.m04@gmail.com**<br>⚡ Fun fact I am a fan of <b><i>Lewis Hamilton🏆🏆🏆🏆🏆🏆🏆🏁🏎️</i></b></h2>
 
+###
 
-<h2 align="left" id="rahim-stack">Tech stack</h2>
+<br clear="both">
 
->  General
- 
-<table width='100%'>
-  <tr>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" alt="visualstudiocode" width="44" height="44"/> 
-        </a>
-       <a href="https://www.figma.com/" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" min-width="44" />
-      </a>   
-      <a href="https://git-scm.com/" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" min-width="44" alt="Git" />
-      </a>
-      <a href="https://www.npmjs.com/" >
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" width="48" height="48" alt="npm" min-width="44" />
-      </a>
-      <a href="https://yarnpkg.com/" >
-        <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="48" height="48" alt="yarn" min-width="44" />
-      </a> 
-      <a href="https://pnpm.io/" >
-        <img src="https://www.svgrepo.com/show/373984/pnpm.svg" width="48" height="48" alt="pnpm" min-width="44" />
-      </a> 
-        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
-            <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.beekeeperstudio.io" target="_blank" rel="noreferrer"> 
-            <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png" alt="beekeeperstudio" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png?f=webp" alt="aws" padding="10" width="48" height="48" min-width="44"/> 
-        </a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="48" height="48" min-width="44" /> 
-        </a>
-  </tr> 
-</table>
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/output/snake.svg" alt="Snake animation" />
 
->  Frontend
- 
-<table width='100%'> 
-    <tr>
-            <a href="#rahim-stack">
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="Html5" min-width="44" />
-            </a>
-            <a href="#rahim-stack" >
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="css3" min-width="44" />
-            </a>
-            <a href="https://sass-lang.com/">
-              <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" min-width="44" />
-            </a>
-     <a href="https://getbootstrap.com/">
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="48" height="48" alt="bootstrap" min-width="44" />
-            </a>
-            <a href="https://tailwindcss.com/">
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="tailwind" min-width="44" />
-            </a>
-           <a href="https://ui.aceternity.com/">
-              <img src="https://pbs.twimg.com/profile_images/1748413098740920320/2RGyMp9c_400x400.png" width="48" height="48" alt="aceternity" min-width="44" />
-            </a>
-            <a href="https://mui.com/">
-              <img src="https://mui.com/static/logo.png" width="48" height="48" alt="mui" min-width="44" />
-            </a>
-      <a href="#rahim-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" min-width="44" />
-      </a>  
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" min-width="44" alt="typescript" width="48" height="48"/> </a>
-        <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/a/51/angular.svg" min-width="44" alt="angular" width="48" height="48" /> </a>
-        <a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" min-width="44" alt="ngrx" width="48" height="48"/> </a>
-      <a href="https://react.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/452092/react.svg" width="48" height="48" min-width="44" alt="React" />
-      </a>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" min-width="44" alt="nextjs"     
-            width="48" height="48"/> 
-        </a>    
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="48" height="48" min-width="44" /> 
-        </a>
+###
 
-  </tr> 
-</table>
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/00fe481a0a5484f5815f56db51b66610710bf0c22d0d81adca3e1a5307e78717/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d526568696d4d616d6d61646f76267468656d653d746f6b796f6e69676874266e6f2d6672616d653d74727565266e6f2d62673d74727565266d617267696e2d773d34"  />
+</div>
 
->  Backend
- 
-<table width='100%'> 
-    <tr>
-        <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-            <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="express" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="mongodb" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="mysql" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="postgresql" width="48" height="48" min-width="44" /> 
-        </a>
-             <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="socket" width="48" height="48" min-width="44" /> 
-        </a>
-     <a href="https://www.passportjs.org/" target="_blank" rel="noreferrer" style="padding: 5px;" > 
-            <img src="https://cdn.worldvectorlogo.com/logos/passport.svg" alt="passport" width="48" height="48" min-width="44" /> 
-        </a>
-     <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
-            <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="firebase" width="48" height="48" min-width="44" /> 
-        </a>
-     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="prisma" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.brighttalk.com/ams/california/images/channel/19370/image_826795.png?width=300&height=300" alt="apollo" width="48" height="48" min-width="44" /> 
-        </a>
-        <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="48" height="48" min-width="44" /> 
-        </a>
-  </tr> 
-</table>
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rahim-mammadov-a79991269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_rahimos_44/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RehimMammadov&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RehimMammadov&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RehimMammadov&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RehimMammadov&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<br>
-    
+###
