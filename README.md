@@ -4,7 +4,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="jsgoat" />
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RehimMammadov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 <br clear="both">
