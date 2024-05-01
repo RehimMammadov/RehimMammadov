@@ -116,9 +116,8 @@ src="https://camo.githubusercontent.com/5ef90fb7e911654d9bcae25dc8d7e1f740c73019
 
 ###
 
-![snake gif](https://github.com/RehimMammadov/RehimMammadov/blob/output/github-contribution-grid-snake.gif)
+
 
 <br clear="both">
-
 
 ###
