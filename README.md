@@ -4,7 +4,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="jsgoat" />
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RehimMammadov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
 <br clear="both">
+
 
 <p align="center">🔭 I’m currently working in GoldenPay OJSC<br>🔭 I’m currently working in Start-up Bamper.az<br>🌱 I’m currently learning Angular && NgRx<br>🔜 Mobile Development using Swift && Flutter<br>💬 Ask me about TypeScript, Next.js, Node.js, NestJS, GraphQL<br>📫 How to reach me rehim.m04@gmail.com<br>⚡ Fun fact I am a fan of Lewis Hamilton🏆🏆🏆🏆🏆🏆🏆🏁🏎</p>
 
