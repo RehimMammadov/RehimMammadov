@@ -146,7 +146,5 @@ src="https://camo.githubusercontent.com/5ef90fb7e911654d9bcae25dc8d7e1f740c73019
   <br/><br/><br/>
 </div>
 
-<br clear="both">
-
 ###
 
