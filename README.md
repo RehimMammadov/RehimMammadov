@@ -128,6 +128,8 @@ src="https://camo.githubusercontent.com/5ef90fb7e911654d9bcae25dc8d7e1f740c73019
   <img src="https://github-profile-trophy.vercel.app/?username=RehimMammadov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RehimMammadov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RehimMammadov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
