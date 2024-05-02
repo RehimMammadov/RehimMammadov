@@ -6,10 +6,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="jsgoat" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RehimMammadov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
 <br clear="both">
 
 <div align="center">
@@ -127,6 +123,10 @@ src="https://camo.githubusercontent.com/5ef90fb7e911654d9bcae25dc8d7e1f740c73019
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RehimMammadov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RehimMammadov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
