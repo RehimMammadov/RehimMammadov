@@ -1,3 +1,7 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RehimMammadov.RehimMammadov" />
+
+###
+
 <h2 align="center">Hi 👋! My name is Rahim Mammadov and I'm a Passionate Frontend Developer from Azerbaijan</h2>
 
 ###
