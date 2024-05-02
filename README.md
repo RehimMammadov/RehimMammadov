@@ -2,7 +2,9 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2BDE98&center=true&random=false&width=700&lines=Hi+There+%F0%9F%91%8B;My+name+is+Rahim+Mammadov)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2BDE98&center=true&random=false&width=700&lines=Hi+There+%F0%9F%91%8B;My+name+is+Rahim+Mammadov)](https://git.io/typing-svg)
+</div>
 
 ###
 
