@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Rahim Mammadov and I'm a Passionate Frontend Developer from Azerbaijan</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2BDE98&center=true&random=false&width=800&lines=Hi+There+%F0%9F%91%8B;My+name+is+Rahim+Mammadov;+I'm+a+Passionate+Frontend+Developer+from+Azerbaijan)](https://git.io/typing-svg)
 
 ###
 
@@ -128,3 +128,4 @@ src="https://camo.githubusercontent.com/5ef90fb7e911654d9bcae25dc8d7e1f740c73019
 <br clear="both">
 
 ###
+
