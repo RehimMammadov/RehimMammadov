@@ -1,7 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RehimMammadov.RehimMammadov" />
-
-###
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=48&pause=1000&color=2BDE98&center=true&random=false&width=1500&height=80&lines=Hi+There+%F0%9F%91%8B;My+name+is+Rahim+Mammadov;I'm+a+Passionate+Frontend+Developer+from+Azerbaijan" />
 </div>
