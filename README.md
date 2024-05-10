@@ -81,7 +81,7 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="44" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="44" alt="tailwindcss logo"  />
 </a>
 <img width="12" />
 <a href="#">
