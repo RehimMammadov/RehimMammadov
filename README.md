@@ -101,6 +101,10 @@
 </a>
 <img width="12" />
 <a href="#">
+  <img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2024.6.105/1717232940541/Microsoft.VisualStudio.Services.Icons.Default" height="44" alt="gitlens logo"  />
+</a>
+<img width="12" />
+<a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="44" alt="mongodb logo"  />
 </a>
 <img width="12" />
