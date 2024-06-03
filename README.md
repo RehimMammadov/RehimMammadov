@@ -157,10 +157,6 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://camo.githubusercontent.com/5ef90fb7e911654d9bcae25dc8d7e1f740c7301905815fffe5570ad3a4b845ed/68747470733a2f2f7374617469632d30302e69636f6e6475636b2e636f6d2f6173736574732e30302f6769746875622d69636f6e2d3230343878313938382d6a7a767a636632742e706e67" height="44" alt="github logo"  />
-</a>
-<img width="12" />
-<a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="44" alt="node.js logo"  />
 </a>
 <img width="12" />
