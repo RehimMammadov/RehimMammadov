@@ -165,6 +165,10 @@
 </a>
 <img width="12" />
 <a href="#">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" height="44" alt="react-query logo"  />
+</a>
+<img width="12" />
+<a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="44" alt="node.js logo"  />
 </a>
 <img width="12" />
