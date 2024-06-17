@@ -4,8 +4,6 @@
 
 ###
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="jsgoat" />
-
 <br clear="both">
 
 <div align="center">
@@ -211,6 +209,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RehimMammadov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=RehimMammadov&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="jsgoat" />
 
 ###
 
