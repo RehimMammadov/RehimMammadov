@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **GoldenPay OJSC**
+ 🔭 I’m currently working on **"Qala Life" Insurance Company OJSC**
  
- 🌱 I’m currently learning **Angular && NgRx**
+ 🌱 I’m currently learning **PHP, Laravel**
 
  💬 Ask me about **TypeScript, Next.js, Node.js, NestJS, GraphQL**
 
