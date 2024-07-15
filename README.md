@@ -134,6 +134,14 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="44" alt="postman logo"  />
 </a>
 <img width="12" />
+  <a href="#">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="44" alt="dart logo"  />
+</a>
+<img width="12" />
+<a href="#">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/1200px-Flutter_logo.svg.png" height="44" alt="flutter logo"  />
+</a>
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="44" alt="bootstrap logo"  />
 </a>
