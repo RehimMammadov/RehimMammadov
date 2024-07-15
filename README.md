@@ -70,8 +70,8 @@
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="44" alt="nestjs logo"  />
 </a>
 <img width="12" />
-<a href="#">
-  <img src="https://cdn.simpleicons.org/apollographql/311C87" height="44" alt="apollographql logo"  />
+  <a href="#">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/1200px-Flutter_logo.svg.png" height="44" alt="flutter logo"  />
 </a>
 <img width="12" />
 <a href="#">
@@ -138,8 +138,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="44" alt="dart logo"  />
 </a>
 <img width="12" />
-<a href="#">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/1200px-Flutter_logo.svg.png" height="44" alt="flutter logo"  />
+  <a href="#">
+  <img src="https://cdn.simpleicons.org/apollographql/311C87" height="44" alt="apollographql logo"  />
 </a>
 <img width="12" />
 <a href="#">
