@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **"Qala Life" Insurance Company OJSC**
  
- 🌱 I’m currently learning **Dart, Flutter**
+ 🌱 I’m currently learning **Flutter**
 
  💬 Ask me about **TypeScript, Next.js, Node.js, NestJS, GraphQL**
 
