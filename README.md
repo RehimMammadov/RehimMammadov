@@ -163,6 +163,10 @@
 </a>
 <img width="12" />
 <a href="#">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp" height="44" alt="vuejs logo"  />
+</a>
+<img width="12" />
+<a href="#">
   <img src="https://camo.githubusercontent.com/b67b6830e4fe2686eee3706938670bcbd3df3f2e8bb78a259459395dc6144e41/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39362f536f636b65742d696f2e7376672f3130323470782d536f636b65742d696f2e7376672e706e67" height="44" alt="socketio logo"  />
 </a>
 <img width="12" />
