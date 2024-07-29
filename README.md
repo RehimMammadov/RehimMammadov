@@ -43,165 +43,165 @@
 
 ###
 
-<div align="center">
+<div align="center" padding="20">
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
   <br/>
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44"  alt="javascript logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" alt="react logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="44" alt="html5 logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="44" alt="css3 logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="44" alt="nestjs logo"  />
 </a>
-<img width="14" />
+<img width="12" />
   <a href="#">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/1200px-Flutter_logo.svg.png" height="44" alt="flutter logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://camo.githubusercontent.com/6c30a7d0eccbfaa1a79bae07ba7feb0af19211035bd3d6709c9b857c88c30992/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3337343030322f707269736d612e737667" height="44" alt="prisma logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="44" alt="tailwindcss logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" height="44" alt="express logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://camo.githubusercontent.com/c96cb99431280ee1fdce3fe6b5338c5aca7bcaf94331b7426803ac9b426f6cef/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646a616e676f2e737667" height="44" alt="django logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="44" alt="postgresql logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="44" alt="mongodb logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="44" alt="docker logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="44" alt="graphql logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://camo.githubusercontent.com/c180a7417c3fa68b908d550d8ecd4063d53b6b1bbc4914b0910dfc8f00a424fb/68747470733a2f2f7777772e63646e6c6f676f2e636f6d2f6c6f676f732f612f35312f616e67756c61722e737667" height="44" alt="angularjs logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://camo.githubusercontent.com/f5c3fc78d64f03840113d78181c6ab430830b8856a9cb2493572c8d81cbfdc5c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6772782e737667" height="44" alt="rxjs logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="git logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2024.6.105/1717232940541/Microsoft.VisualStudio.Services.Icons.Default" height="44" alt="gitlens logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" height="44" alt="gitlab logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="44" alt="postman logo"  />
 </a>
-<img width="14" />
+<img width="12" />
   <a href="#">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="44" alt="dart logo"  />
 </a>
-<img width="14" />
+<img width="12" />
   <a href="#">
   <img src="https://cdn.simpleicons.org/apollographql/311C87" height="44" alt="apollographql logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="44" alt="bootstrap logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="44" alt="materialui logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="44" alt="nextjs logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="44" alt="redis logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="44" alt="firebase logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp" height="44" alt="vuejs logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://camo.githubusercontent.com/b67b6830e4fe2686eee3706938670bcbd3df3f2e8bb78a259459395dc6144e41/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39362f536f636b65742d696f2e7376672f3130323470782d536f636b65742d696f2e7376672e706e67" height="44" alt="socketio logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="44" alt="redux logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" height="44" alt="react-query logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="44" alt="node.js logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" alt="figma logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" alt="vscode logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-nuxt-dot-js-3521615-2945059.png?f=webp" height="44" alt="nuxt logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="44" alt="npm logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="44" alt="yarn logo"  />
 </a>
-<img width="14" />
+<img width="12" />
 <a href="#">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" height="44" alt="typescript logo"  />
 </a>
