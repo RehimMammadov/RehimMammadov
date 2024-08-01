@@ -123,10 +123,6 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2024.6.105/1717232940541/Microsoft.VisualStudio.Services.Icons.Default" height="44" alt="gitlens logo"  />
-</a>
-<img width="12" />
-<a href="#">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" height="44" alt="gitlab logo"  />
 </a>
 <img width="12" />
