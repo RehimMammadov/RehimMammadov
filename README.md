@@ -187,6 +187,10 @@
 </a>
 <img width="12" />
 <a href="#">
+  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="44" alt="zustand logo"  />
+</a>
+<img width="12" />
+<a href="#">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-nuxt-dot-js-3521615-2945059.png?f=webp" height="44" alt="nuxt logo"  />
 </a>
 <img width="12" />
