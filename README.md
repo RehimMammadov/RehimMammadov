@@ -75,7 +75,7 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://camo.githubusercontent.com/6c30a7d0eccbfaa1a79bae07ba7feb0af19211035bd3d6709c9b857c88c30992/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3337343030322f707269736d612e737667" height="44" alt="prisma logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/prisma_logo_icon_248778.png" height="44" alt="prisma logo"  />
 </a>
 <img width="12" />
 <a href="#">
@@ -87,7 +87,7 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://camo.githubusercontent.com/c96cb99431280ee1fdce3fe6b5338c5aca7bcaf94331b7426803ac9b426f6cef/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646a616e676f2e737667" height="44" alt="django logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" height="44" alt="django logo"  />
 </a>
 <img width="12" />
 <a href="#">
@@ -111,11 +111,11 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://camo.githubusercontent.com/c180a7417c3fa68b908d550d8ecd4063d53b6b1bbc4914b0910dfc8f00a424fb/68747470733a2f2f7777772e63646e6c6f676f2e636f6d2f6c6f676f732f612f35312f616e67756c61722e737667" height="44" alt="angularjs logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="44" alt="angularjs logo"  />
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://camo.githubusercontent.com/f5c3fc78d64f03840113d78181c6ab430830b8856a9cb2493572c8d81cbfdc5c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6772782e737667" height="44" alt="rxjs logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" height="44" alt="rxjs logo"  />
 </a>
 <img width="12" />
 <a href="#">
@@ -163,7 +163,7 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://camo.githubusercontent.com/b67b6830e4fe2686eee3706938670bcbd3df3f2e8bb78a259459395dc6144e41/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39362f536f636b65742d696f2e7376672f3130323470782d536f636b65742d696f2e7376672e706e67" height="44" alt="socketio logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" height="44" alt="socketio logo"  />
 </a>
 <img width="12" />
 <a href="#">
