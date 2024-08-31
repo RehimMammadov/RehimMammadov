@@ -139,7 +139,7 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" height="44" alt="bootstrap logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="44" alt="bootstrap logo"  />
 </a>
 <img width="12" />
 <a href="#">
