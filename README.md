@@ -75,7 +75,7 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/prisma_logo_icon_248778.png" height="44" alt="prisma logo"  />
+  <img src="https://www.svgrepo.com/show/374002/prisma.svg" height="44" alt="prisma logo"  />
 </a>
 <img width="12" />
 <a href="#">
@@ -139,7 +139,7 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="44" alt="bootstrap logo"  />
+  <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" height="44" alt="bootstrap logo"  />
 </a>
 <img width="12" />
 <a href="#">
