@@ -183,6 +183,10 @@
 </a>
 <img width="12" />
 <a href="#">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" height="44" alt="swift logo"  />
+</a>
+<img width="12" />
+<a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" alt="vscode logo"  />
 </a>
 <img width="12" />
@@ -205,8 +209,13 @@
 <a href="#">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" height="44" alt="typescript logo"  />
 </a>
+<img width="12" />
+<a href="#">
+  <img src="https://static-00.iconduck.com/assets.00/file-type-expo-icon-1807x2048-zlqoaiu7.png" height="44" alt="expo logo"  />
+</a>
 
 </div>
+
 
 
 ###
