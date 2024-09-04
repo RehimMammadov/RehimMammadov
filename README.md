@@ -202,10 +202,10 @@
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" height="44" alt="swift logo"  />
 </a>
 <img width="12" />
-<a href="#">
+<!-- <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" alt="vscode logo"  />
 </a>
-<img width="12" />
+<img width="12" /> -->
 <a href="#">
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="44" alt="zustand logo"  />
 </a>
