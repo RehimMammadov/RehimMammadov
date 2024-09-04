@@ -153,6 +153,10 @@
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="44" alt="redis logo"  />
 </a>
+  <img width="12" />
+<a href="#">
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" height="44" alt="gsap logo"  />
+</a>
 <img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="44" alt="firebase logo"  />
@@ -173,6 +177,10 @@
 <a href="#">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" height="44" alt="react-query logo"  />
 </a>
+  <img width="12" />
+<a href="#">
+  <img src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/180x180.png" height="44" alt="vercel logo"  />
+</a>
 <img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="44" alt="node.js logo"  />
@@ -180,6 +188,10 @@
 <img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" alt="figma logo"  />
+</a>
+  <img width="12" />
+<a href="#">
+  <img src="https://cdn.cosmicjs.com/547d4e20-dd7e-11ee-b074-b5c8fe3ef189-netlify-light.png" height="44" alt="netlify logo"  />
 </a>
 <img width="12" />
 <a href="#">
@@ -212,6 +224,10 @@
 <img width="12" />
 <a href="#">
   <img src="https://static-00.iconduck.com/assets.00/file-type-expo-icon-1807x2048-zlqoaiu7.png" height="44" alt="expo logo"  />
+</a>
+<img width="12" />
+<a href="#">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" height="44" alt="aws logo"  />
 </a>
 
 </div>
