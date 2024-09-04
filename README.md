@@ -191,7 +191,7 @@
 </a>
   <img width="12" />
 <a href="#">
-  <img src="https://cdn.cosmicjs.com/547d4e20-dd7e-11ee-b074-b5c8fe3ef189-netlify-light.png" height="44" alt="netlify logo"  />
+  <img src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" height="44" alt="netlify logo"  />
 </a>
 <img width="12" />
 <a href="#">
