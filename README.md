@@ -165,6 +165,10 @@
 <a href="#">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp" height="44" alt="vuejs logo"  />
 </a>
+  <img width="12" />
+<a href="#">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175153.png?f=webp&w=256" height="44" alt="jquery logo"  />
+</a>
 <img width="12" />
 <a href="#">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" height="44" alt="socketio logo"  />
