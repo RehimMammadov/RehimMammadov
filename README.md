@@ -90,6 +90,10 @@
   <img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" height="44" alt="django logo"  />
 </a>
 <img width="12" />
+  <a href="#">
+  <img src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/ICON%20-%20White%20on%20Transparent.png" height="44" alt="kafka logo"  />
+</a>
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="44" alt="postgresql logo"  />
 </a>
