@@ -137,6 +137,10 @@
   <a href="#">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="44" alt="dart logo"  />
 </a>
+  <img width="12" />
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="44" alt="linux logo"  />
+</a>
 <img width="12" />
   <a href="#">
   <img src="https://cdn.simpleicons.org/apollographql/311C87" height="44" alt="apollographql logo"  />
