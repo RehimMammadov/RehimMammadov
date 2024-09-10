@@ -146,6 +146,10 @@
   <img src="https://cdn.simpleicons.org/apollographql/311C87" height="44" alt="apollographql logo"  />
 </a>
 <img width="12" />
+  <a href="#">
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="44" alt="fastapi logo"  />
+</a>
+<img width="12" />
 <a href="#">
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" height="44" alt="bootstrap logo"  />
 </a>
