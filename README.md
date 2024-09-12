@@ -89,10 +89,6 @@
 <a href="#">
   <img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" height="44" alt="django logo"  />
 </a>
-<!-- <img width="12" />
-  <a href="#">
-  <img src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/ICON%20-%20White%20on%20Transparent.png" height="44" alt="kafka logo"  />
-</a> -->
 <img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="44" alt="postgresql logo"  />
@@ -107,7 +103,8 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="44" alt="docker logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="44" alt="docker logo"  /> -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" height="44" alt="docker logo"  />
 </a>
 <img width="12" />
 <a href="#">
@@ -128,6 +125,10 @@
 <img width="12" />
 <a href="#">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" height="44" alt="gitlab logo"  />
+</a>
+  <img width="12" />
+<a href="#">
+  <img src="https://miro.medium.com/v2/0*rwd6KeolcXgz7zpx.png" height="44" alt="sequilize logo"  />
 </a>
 <img width="12" />
 <a href="#">
