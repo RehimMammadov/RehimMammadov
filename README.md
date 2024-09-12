@@ -104,7 +104,7 @@
 <img width="12" />
 <a href="#">
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="44" alt="docker logo"  /> -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" height="44" alt="docker logo"  />
+  <img src="https://vlasov.pro/p/docker/docker_hu96668984e79d9c036b9aa90a5d4f71ec_16312_800x0_resize_q75_h2_box_2.webp" height="44" alt="docker logo"  />
 </a>
 <img width="12" />
 <a href="#">
