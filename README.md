@@ -158,6 +158,10 @@
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="44" alt="materialui logo"  />
 </a>
 <img width="12" />
+  <a href="#">
+  <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" height="44" alt="oracle logo"  />
+</a>
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="44" alt="nextjs logo"  />
 </a>
