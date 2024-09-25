@@ -170,6 +170,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="44" alt="redis logo"  />
 </a>
   <img width="12" />
+  <a href="#">
+  <img src="https://res.cloudinary.com/demo/image/upload/e_shadow:90,x_15,y_15/cloudinary_icon.png" height="44" alt="cloudinary logo"  />
+</a>
+  <img width="12" />
 <a href="#">
   <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" height="44" alt="gsap logo"  />
 </a>
