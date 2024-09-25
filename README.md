@@ -171,7 +171,7 @@
 </a>
   <img width="12" />
   <a href="#">
-  <img src="https://static-00.iconduck.com/assets.00/cloudinary-icon-512x335-z2n5aue3.png" height="44" alt="cloudinary logo"  />
+  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1698065173920x554535889313890300%2F2182976911536207307-512.png?w=&h=&auto=compress&dpr=1&fit=max" height="44" alt="cloudinary logo"  />
 </a>
   <img width="12" />
 <a href="#">
