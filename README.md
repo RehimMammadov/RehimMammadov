@@ -171,7 +171,7 @@
 </a>
   <img width="12" />
   <a href="#">
-  <img src="https://res.cloudinary.com/demo/image/upload/e_shadow:90,x_15,y_15/cloudinary_icon.png" height="44" alt="cloudinary logo"  />
+  <img src="https://appexchange.salesforce.com/image_host/300c831a-4271-44f2-91da-b48269175229.png" height="44" alt="cloudinary logo"  />
 </a>
   <img width="12" />
 <a href="#">
