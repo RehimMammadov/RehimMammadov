@@ -82,6 +82,10 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="44" alt="tailwindcss logo"  />
 </a>
 <img width="12" />
+  <a href="#">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" height="44" alt="power bi logo"  />
+</a>
+<img width="12" />
 <a href="#">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" height="44" alt="express logo"  />
 </a>
