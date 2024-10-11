@@ -159,6 +159,10 @@
 </a>
 <img width="12" />
 <a href="#">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="44" alt="azure logo"  />
+</a>
+<img width="12" />
+<a href="#">
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" height="44" alt="bootstrap logo"  />
 </a>
 <img width="12" />
