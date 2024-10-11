@@ -102,6 +102,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql logo"  />
 </a>
 <img width="12" />
+  <a href="#">
+  <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/microsoft-sql-server-logo-vector-svg-PDgP.png" height="44" alt="mssql logo"  />
+</a>
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="44" alt="mongodb logo"  />
 </a>
