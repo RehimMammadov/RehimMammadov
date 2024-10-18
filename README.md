@@ -74,6 +74,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/1200px-Flutter_logo.svg.png" height="44" alt="flutter logo"  />
 </a>
 <img width="12" />
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="44" alt="java logo"  />
+</a>
+<img width="12" />
 <a href="#">
   <img src="https://www.svgrepo.com/show/374002/prisma.svg" height="44" alt="prisma logo"  />
 </a>
