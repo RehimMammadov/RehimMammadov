@@ -263,10 +263,6 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://static-00.iconduck.com/assets.00/file-type-expo-icon-1807x2048-zlqoaiu7.png" height="44" alt="expo logo"  />
-</a>
-<img width="12" />
-<a href="#">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" height="44" alt="aws logo"  />
 </a>
 
