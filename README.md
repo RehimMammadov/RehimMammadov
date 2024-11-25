@@ -95,7 +95,7 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" height="44" alt="django logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="44" alt="django logo"  />
 </a>
 <img width="12" />
 <a href="#">
