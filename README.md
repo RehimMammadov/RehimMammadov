@@ -179,7 +179,9 @@
 </a>
 <img width="12" />
   <a href="#">
-  <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" width="44" height="44" alt="oracle logo"  />
+<!--   <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" width="44" height="44" alt="oracle logo"  /> -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="44" height="44" alt="oracle logo"  />
+    
 </a>
 <img width="12" />
 <a href="#">
