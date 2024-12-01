@@ -134,6 +134,10 @@
   <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" height="44" alt="rxjs logo"  />
 </a>
 <img width="12" />
+  <a href="#">
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" height="44" alt="golang logo"  />
+</a>
+<img width="12" />
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="git logo"  />
 </a>
