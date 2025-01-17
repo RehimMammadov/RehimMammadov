@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **"Qala Life" Insurance Company OJSC**
+ 🔭 I’m currently working in **"Qala Life" Insurance Company OJSC**
  
- 🌱 I’m currently learning **Flutter**
+ 🌱 I’m currently learning **Java**
 
  💬 Ask me about **TypeScript, Next.js, Node.js, NestJS, GraphQL**
 
