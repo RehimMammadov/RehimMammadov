@@ -241,7 +241,7 @@
 </a>
   <img width="12" />
 <a href="#">
-  <img src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" height="44" alt="netlify logo"  />
+  <img src="https://www.netlify.com/favicon.ico" height="44" alt="netlify logo"  />
 </a>
 <img width="12" />
 <a href="#">
