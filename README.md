@@ -181,6 +181,10 @@
 <a href="#">
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="44" alt="materialui logo"  />
 </a>
+  <img width="12" />
+<a href="#">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chart.js_logo.svg/1024px-Chart.js_logo.svg.png" height="44" alt="chartjs logo"  />
+</a>
 <img width="12" />
   <a href="#">
 <!--   <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" width="44" height="44" alt="oracle logo"  /> -->
