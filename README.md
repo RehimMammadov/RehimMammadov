@@ -163,7 +163,7 @@
 </a>
 <img width="12" />
   <a href="#">
-  <img src="https://cdn.simpleicons.org/apollographql/311C87" height="44" alt="apollographql logo"  />
+  <img src="https://cledara-public.s3.eu-west-2.amazonaws.com/25bd5104d61020fe4dc0777a5919cd009bca633e.png" height="44" alt="apollographql logo"  />
 </a>
 <img width="12" />
   <a href="#">
