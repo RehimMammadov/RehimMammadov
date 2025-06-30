@@ -83,10 +83,6 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://pngimg.com/d/php_PNG31.png" height="44" alt="php logo"  />
-</a>
-<img width="12" />
-<a href="#">
   <img src="https://www.svgrepo.com/show/374002/prisma.svg" height="44" alt="prisma logo"  />
 </a>
 <img width="12" />
