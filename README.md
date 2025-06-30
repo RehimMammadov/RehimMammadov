@@ -83,6 +83,14 @@
 </a>
 <img width="12" />
 <a href="#">
+  <img src="https://images.seeklogo.com/logo-png/10/2/php-logo-png_seeklogo-108600.png" height="44" alt="php logo"  />
+</a>
+  <img width="12" />
+<a href="#">
+  <img src="https://laravel.com/img/favicon/android-chrome-192x192.png" height="44" alt="laravel logo"  />
+</a>
+<img width="12" />
+<a href="#">
   <img src="https://www.svgrepo.com/show/374002/prisma.svg" height="44" alt="prisma logo"  />
 </a>
 <img width="12" />
