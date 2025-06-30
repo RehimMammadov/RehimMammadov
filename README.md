@@ -83,7 +83,7 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://images.seeklogo.com/logo-png/44/2/php-logo-png_seeklogo-441548.png" height="44" alt="php logo"  />
+  <img src="https://pngimg.com/d/php_PNG31.png" height="44" alt="php logo"  />
 </a>
 <img width="12" />
 <a href="#">
