@@ -10,7 +10,7 @@
  
  🔭 I’m currently working in **"Qala Life" Insurance Company OJSC**
  
- 🌱 I’m currently learning **Java**
+ 🌱 I’m currently learning **PHP Laravel, Java Spring**
 
  💬 Ask me about **TypeScript, Next.js, Node.js, NestJS, GraphQL**
 
