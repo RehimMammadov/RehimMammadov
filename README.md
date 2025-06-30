@@ -83,11 +83,7 @@
 </a>
 <img width="12" />
 <a href="#">
-  <img src="https://images.seeklogo.com/logo-png/10/2/php-logo-png_seeklogo-108600.png" height="44" alt="php logo"  />
-</a>
-  <img width="12" />
-<a href="#">
-  <img src="https://laravel.com/img/favicon/android-chrome-192x192.png" height="44" alt="laravel logo"  />
+  <img src="https://images.seeklogo.com/logo-png/44/2/php-logo-png_seeklogo-441548.png" height="44" alt="php logo"  />
 </a>
 <img width="12" />
 <a href="#">
