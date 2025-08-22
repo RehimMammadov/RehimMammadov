@@ -147,14 +147,9 @@
 <a href="#">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" height="44" alt="gitlab logo"  />
 </a>
-  <img width="12" />
+<img width="12" />
 <a href="#">
   <img src="https://miro.medium.com/v2/0*rwd6KeolcXgz7zpx.png" height="44" alt="sequilize logo"  />
-</a>
-  <a href="#">
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pm2-icon-de2tnxlx7mpm39v66kkhc9.png/pm2-icon-j1kc5wcz2f8itsbu1k1ey.png?_a=DATAg1AAZAA0" height="44" alt="pm2 logo"  />
-</a>
-<img width="12" />
 <a href="#">
 <img width="12" />
 <a href="#">
@@ -285,6 +280,11 @@
 <img width="12" />
 <a href="#">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" height="44" alt="aws logo"  />
+</a>
+<img width="12" />
+</a>
+    <a href="#">
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pm2-icon-de2tnxlx7mpm39v66kkhc9.png/pm2-icon-j1kc5wcz2f8itsbu1k1ey.png?_a=DATAg1AAZAA0" height="44" alt="pm2 logo"  />
 </a>
 
 </div>
