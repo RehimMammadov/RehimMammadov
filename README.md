@@ -152,7 +152,7 @@
   <img src="https://miro.medium.com/v2/0*rwd6KeolcXgz7zpx.png" height="44" alt="sequilize logo"  />
 </a>
   <a href="#">
-  <img src="https://eclecticmindofduluxoz.wordpress.com/wp-content/uploads/2022/12/pm2-logo-1-1.png" height="44" alt="pm2 logo"  />
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pm2-icon-de2tnxlx7mpm39v66kkhc9.png/pm2-icon-j1kc5wcz2f8itsbu1k1ey.png?_a=DATAg1AAZAA0" height="44" alt="pm2 logo"  />
 </a>
 <img width="12" />
 <a href="#">
