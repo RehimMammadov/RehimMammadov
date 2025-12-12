@@ -45,7 +45,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="42"/>
+<img src="https://images.seeklogo.com/logo-png/33/2/angular-logo-png_seeklogo-331629.png" height="42"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png" height="42"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-nuxt-dot-js-3521615-2945059.png" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="42"/>
@@ -115,6 +115,7 @@
 <img src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/180x180.png" height="42"/>
 <img src="https://www.netlify.com/favicon.ico" height="42"/>
 <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pm2-icon-de2tnxlx7mpm39v66kkhc9.png" height="42"/>
+  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1698065173920x554535889313890300%2F2182976911536207307-512.png" height="42"/>
 </div>
 
 ---
@@ -129,7 +130,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42"/>
-<img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1698065173920x554535889313890300%2F2182976911536207307-512.png" height="42"/>
 </div>
 
 ---
