@@ -45,7 +45,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42"/>
-<img src="https://images.seeklogo.com/logo-png/33/2/angular-logo-png_seeklogo-331629.png" height="42"/>
+<img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F512%2Fangularjs_plain_logo_icon_146647.png&id=146647&pack_or_individual=pack" height="42"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png" height="42"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-nuxt-dot-js-3521615-2945059.png" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="42"/>
