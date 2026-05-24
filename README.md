@@ -9,7 +9,6 @@
 🔭 Working at **Qala Life Insurance Company OJSC**  
 🌱 Learning **PHP Laravel & Java Spring**  
 💬 Ask me about **TypeScript, Next.js, Node.js, NestJS, GraphQL**  
-⚡ Fun fact: **Lewis Hamilton fan 🏎️🏆🏆🏆🏆🏆🏆🏆**
 
 </div>
 
