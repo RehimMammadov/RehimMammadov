@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=RAHIM%20MAMMADOV&fontSize=52&fontColor=2BDE98&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20DevOps%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=RAHIM%20MAMMADOV&fontSize=52&fontColor=2BDE98&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Full%20Stack%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/RehimMammadov">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=1000&color=2BDE98&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+with+AI+%2B+DevOps;Full+Stack+Engineer+%7C+React+%C2%B7+TypeScript+%C2%B7+Laravel;Automating+the+Cloud+with+Docker+%2B+Kubernetes;Currently+leveling+up+in+Python+%26+LLMs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=1000&color=2BDE98&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%7C+React+%C2%B7+TypeScript+%C2%B7+Laravel;Crafting+clean%2C+performant+web+interfaces;Building+scalable+platforms+end-to-end;Currently+leveling+up+in+Next.js+%26+System+Design" />
 </a>
 
 <br/><br/>
@@ -51,14 +51,13 @@
 const rahim = {
   location: "Baku, Azerbaijan 🇦🇿",
   role: "Frontend / Full Stack Developer",
-  currentGoal: "AI Engineer + DevOps Engineer",
   currentWork: "Qala Insurance — Frontend Dev",
   currentlyLearning: [
-    "Python", "Machine Learning", "LLMs",
-    "OpenShift", "Kubernetes", "Terraform"
+    "Next.js", "GraphQL", "System Design",
+    "Testing", "Accessibility"
   ],
   stack: ["React", "TypeScript", "Next.js",
-          "Laravel", "Node.js", "Docker"],
+          "Laravel", "Node.js", "PostgreSQL"],
   funFact: "I automate things twice —
              once to save time, once for fun."
 };
@@ -71,16 +70,16 @@ const rahim = {
 Frontend systems for an enterprise insurance platform — CMS, authentication, and payment flows at Qala Insurance.
 
 **🌱 Currently Learning**
-Python, Machine Learning fundamentals, LLM engineering, and cloud-native tooling (OpenShift, Kubernetes, Terraform).
+Next.js, GraphQL, system design, automated testing, and accessibility best practices.
 
 **🎯 Goal**
-Transition into an **AI Engineer + DevOps Engineer** role while keeping a strong Full Stack foundation.
+Grow into a **Senior Full Stack Engineer**, deepening architecture and system-design skills while staying hands-on with the frontend.
 
 **💡 Interests**
-AI agents, developer tooling, system design, cloud infrastructure, and clean UI engineering.
+Developer tooling, system design, design systems, performance engineering, and clean UI craftsmanship.
 
 **🤝 Open Source**
-Building and maintaining small dev-tooling and AI-experiment repos — always open to collaboration.
+Building and maintaining small developer-tooling and UI-component repos — always open to collaboration.
 
 **⚡ Fun Fact**
 I believe the best code is the code you never had to write — automation first, always.
@@ -129,15 +128,15 @@ Built and maintained core customer-facing modules for an enterprise **insurance 
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=120&text=AI%20Portfolio&fontSize=26&fontColor=2BDE98&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=120&text=E-commerce%20Dashboard&fontSize=22&fontColor=2BDE98&fontAlignY=55" width="100%"/>
 
-**AI Portfolio** &nbsp; ![status](https://img.shields.io/badge/status-active-2BDE98?style=flat-square)
+**E-commerce Dashboard** &nbsp; ![status](https://img.shields.io/badge/status-active-2BDE98?style=flat-square)
 
-Personal portfolio powered by an embedded AI assistant that answers visitor questions about my work in real time.
+Admin dashboard for managing orders, inventory, and analytics with real-time charts and role-based access.
 
-`Next.js` `TypeScript` `OpenAI API` `Tailwind`
+`React` `TypeScript` `Chart.js` `Tailwind`
 
-<a href="https://github.com/RehimMammadov/ai-portfolio"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RehimMammadov/ecommerce-dashboard"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Demo-2BDE98?style=flat-square&logo=vercel&logoColor=black"/></a>
 
 </td>
@@ -159,29 +158,29 @@ Enterprise insurance web platform: policy management, claims, CMS, authenticatio
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=120&text=AI%20Agent&fontSize=26&fontColor=2BDE98&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=120&text=Real-time%20Chat%20App&fontSize=22&fontColor=2BDE98&fontAlignY=55" width="100%"/>
 
-**AI Agent** &nbsp; ![status](https://img.shields.io/badge/status-in--progress-F5A623?style=flat-square)
+**Real-time Chat App** &nbsp; ![status](https://img.shields.io/badge/status-active-2BDE98?style=flat-square)
 
-Task-automation agent built on LLM tool-calling — reads tickets, writes summaries, and triggers workflows.
+Full-stack messaging app with rooms, typing indicators, and message history, built on WebSockets.
 
-`Python` `LangChain` `LLMs` `Docker`
+`React` `NestJS` `Socket.io` `MongoDB`
 
-<a href="https://github.com/RehimMammadov/ai-agent"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RehimMammadov/realtime-chat"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Demo-2BDE98?style=flat-square&logo=vercel&logoColor=black"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=120&text=OpenShift%20Labs&fontSize=24&fontColor=2BDE98&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=120&text=Component%20Library&fontSize=22&fontColor=2BDE98&fontAlignY=55" width="100%"/>
 
-**OpenShift Labs** &nbsp; ![status](https://img.shields.io/badge/status-active-2BDE98?style=flat-square)
+**Component Library** &nbsp; ![status](https://img.shields.io/badge/status-active-2BDE98?style=flat-square)
 
-Collection of hands-on OpenShift labs — deployments, routes, operators, and CI/CD pipelines.
+Reusable, accessible React component library with Storybook docs and full theming support.
 
-`OpenShift` `Kubernetes` `CI/CD`
+`React` `TypeScript` `Storybook` `Tailwind`
 
-<a href="https://github.com/RehimMammadov/openshift-labs"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RehimMammadov/component-library"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Docs-2BDE98?style=flat-square&logo=readthedocs&logoColor=black"/></a>
 
 </td>
@@ -189,30 +188,30 @@ Collection of hands-on OpenShift labs — deployments, routes, operators, and CI
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=120&text=Docker%20Playground&fontSize=24&fontColor=2BDE98&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=120&text=CMS%20Starter%20Kit&fontSize=22&fontColor=2BDE98&fontAlignY=55" width="100%"/>
 
-**Docker Playground** &nbsp; ![status](https://img.shields.io/badge/status-active-2BDE98?style=flat-square)
+**CMS Starter Kit** &nbsp; ![status](https://img.shields.io/badge/status-active-2BDE98?style=flat-square)
 
-Curated multi-service Docker Compose setups for local development and experimentation.
+Headless CMS-driven starter for content-heavy sites — blogs, marketing pages, and docs, out of the box.
 
-`Docker` `Docker Compose` `Nginx`
+`Next.js` `Laravel` `REST APIs`
 
-<a href="https://github.com/RehimMammadov/docker-playground"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RehimMammadov/cms-starter-kit"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Docs-2BDE98?style=flat-square&logo=readthedocs&logoColor=black"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=120&text=Kubernetes%20Examples&fontSize=22&fontColor=2BDE98&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=120&text=Booking%20Web%20App&fontSize=22&fontColor=2BDE98&fontAlignY=55" width="100%"/>
 
-**Kubernetes Examples** &nbsp; ![status](https://img.shields.io/badge/status-active-2BDE98?style=flat-square)
+**Booking Web App** &nbsp; ![status](https://img.shields.io/badge/status-active-2BDE98?style=flat-square)
 
-Reference manifests and Helm charts for common deployment patterns — from basic pods to autoscaling.
+End-to-end appointment booking system with calendar sync, email reminders, and an admin panel.
 
-`Kubernetes` `Helm` `Terraform`
+`Next.js` `NestJS` `PostgreSQL`
 
-<a href="https://github.com/RehimMammadov/kubernetes-examples"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Docs-2BDE98?style=flat-square&logo=readthedocs&logoColor=black"/></a>
+<a href="https://github.com/RehimMammadov/booking-app"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Demo-2BDE98?style=flat-square&logo=vercel&logoColor=black"/></a>
 
 </td>
 </tr>
@@ -267,27 +266,6 @@ Minimal, fast, and animated developer portfolio built with a design-system-first
 **Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,php,graphql" />
-
-</td></tr>
-<tr><td>
-
-**AI**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-
-</td></tr>
-<tr><td>
-
-**DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,ansible,git,linux" />
-
-</td></tr>
-<tr><td>
-
-**Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel" />
 
 </td></tr>
 <tr><td>
@@ -364,16 +342,13 @@ Minimal, fast, and animated developer portfolio built with a design-system-first
 ## 🧭 Current Learning Roadmap
 
 <table width="100%">
-<tr><td width="30%"><b>Python</b></td><td width="70%"><img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>Machine Learning</b></td><td><img src="https://geps.dev/progress/45?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>LLM Engineering</b></td><td><img src="https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>Docker</b></td><td><img src="https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>Kubernetes</b></td><td><img src="https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>OpenShift</b></td><td><img src="https://geps.dev/progress/55?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>Terraform</b></td><td><img src="https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>Ansible</b></td><td><img src="https://geps.dev/progress/35?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>AWS</b></td><td><img src="https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>Azure</b></td><td><img src="https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
+<tr><td width="30%"><b>Next.js</b></td><td width="70%"><img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
+<tr><td><b>GraphQL</b></td><td><img src="https://geps.dev/progress/55?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
+<tr><td><b>System Design</b></td><td><img src="https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
+<tr><td><b>Automated Testing</b></td><td><img src="https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
+<tr><td><b>Web Accessibility</b></td><td><img src="https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
+<tr><td><b>NestJS</b></td><td><img src="https://geps.dev/progress/45?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
+<tr><td><b>PostgreSQL</b></td><td><img src="https://geps.dev/progress/55?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
 </table>
 
 > Update the percentage in each `geps.dev/progress/<value>` URL as your skills progress — see `docs/MAINTENANCE.md`.
@@ -389,30 +364,16 @@ Minimal, fast, and animated developer portfolio built with a design-system-first
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=redhat" width="45"/><br/><b>Red Hat</b><br/><sub>In Progress</sub>
+<img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white" /><br/><sub>Front-End Developer — In Progress</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=docker" width="45"/><br/><b>Docker Certified</b><br/><sub>In Progress</sub>
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /><br/><sub>Advanced React — In Progress</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="45"/><br/><b>CKA</b><br/><sub>Planned</sub>
+<img src="https://skillicons.dev/icons?i=ts" width="45"/><br/><b>TypeScript</b><br/><sub>Planned</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=aws" width="45"/><br/><b>AWS Certified</b><br/><sub>Planned</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=azure" width="45"/><br/><b>Azure Fundamentals</b><br/><sub>Planned</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=gcp" width="45"/><br/><b>Google Cloud</b><br/><sub>Planned</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /><br/><sub>ML Specialization — In Progress</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" /><br/><sub>Associate — Planned</sub>
+<img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" /><br/><sub>JS Algorithms & Data Structures</sub>
 </td>
 </tr>
 </table>
