@@ -292,8 +292,8 @@ Minimal, fast, and animated developer portfolio built with a design-system-first
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RehimMammadov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2BDE98&icon_color=2BDE98&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehimMammadov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2BDE98&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RehimMammadov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2BDE98&icon_color=2BDE98&text_color=C9D1D9&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehimMammadov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2BDE98&text_color=C9D1D9&cache_seconds=86400" />
 
 <br/>
 
@@ -308,6 +308,8 @@ Minimal, fast, and animated developer portfolio built with a design-system-first
 <img src="https://github-profile-trophy.vercel.app/?username=RehimMammadov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
+
+> **Note:** these widgets call free, shared community services (github-readme-stats, streak-stats, activity-graph). They occasionally show a rate-limit error under heavy traffic — this is unrelated to your profile. See `docs/CUSTOMIZATION.md` → "Fixing broken or rate-limited stats" for a permanent, self-hosted fix.
 
 > Productive Time & Coding Activity are powered by WakaTime — see `docs/CUSTOMIZATION.md` to connect your own account and enable the `waka.yml` workflow.
 
@@ -352,6 +354,33 @@ Minimal, fast, and animated developer portfolio built with a design-system-first
 </table>
 
 > Update the percentage in each `geps.dev/progress/<value>` URL as your skills progress — see `docs/MAINTENANCE.md`.
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=2BDE98" width="100%"/>
+
+<br/>
+
+## 🏆 Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white" /><br/><sub>Front-End Developer — In Progress</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /><br/><sub>Advanced React — In Progress</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=ts" width="45"/><br/><b>TypeScript</b><br/><sub>Planned</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" /><br/><sub>JS Algorithms & Data Structures</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=2BDE98" width="100%"/>
 
