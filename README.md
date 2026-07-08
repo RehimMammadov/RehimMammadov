@@ -359,33 +359,6 @@ Minimal, fast, and animated developer portfolio built with a design-system-first
 
 <br/>
 
-## 🏆 Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white" /><br/><sub>Front-End Developer — In Progress</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /><br/><sub>Advanced React — In Progress</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=ts" width="45"/><br/><b>TypeScript</b><br/><sub>Planned</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" /><br/><sub>JS Algorithms & Data Structures</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=2BDE98" width="100%"/>
-
-<br/>
-
 <div align="center">
 
 ## 💬 Quote
