@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/rahim-mammadov-a79991269/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rehim.m04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/RehimMammadov">
@@ -96,13 +96,34 @@ I believe the best code is the code you never had to write — automation first,
 
 <table width="100%">
 <tr>
-<td width="12%" align="center" valign="top">
+<td width="12%" align="center" valign="middle">
 <img src="https://skillicons.dev/icons?i=react" width="50"/>
 <br/><sub><b>Nov 2025 —<br/>Jul 2026</b></sub>
 </td>
 <td width="88%">
 
 ### Frontend Developer · **Qala Insurance**
+
+Built and maintained core customer-facing modules for an enterprise **insurance platform**, working across a **React + TypeScript** frontend integrated with a **Laravel**-powered backend and CMS.
+
+- Delivered high-performance, responsive UI for policy management, claims, and customer dashboards
+- Implemented secure **authentication** flows and integrated **payment processing**
+- Consumed and integrated **REST APIs** across multiple internal services
+- Improved page-load performance and Core Web Vitals through code-splitting and asset optimization
+- Collaborated with backend and design teams to ship a scalable, maintainable CMS-driven architecture
+
+`React` `TypeScript` `Laravel` `REST APIs` `Authentication` `Payments` `Performance` `Responsive Design`
+
+</td>
+</tr>
+<tr>
+<td width="12%" align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=react" width="50"/>
+<br/><sub><b>Jul 2024 —<br/>Jul 2026</b></sub>
+</td>
+<td width="88%">
+
+### Frontend Developer · **Qala Life Insurance**
 
 Built and maintained core customer-facing modules for an enterprise **insurance platform**, working across a **React + TypeScript** frontend integrated with a **Laravel**-powered backend and CMS.
 
@@ -359,6 +380,8 @@ Minimal, fast, and animated developer portfolio built with a design-system-first
 
 <br/>
 
+<br/>
+
 <div align="center">
 
 ## 💬 Quote
@@ -382,7 +405,7 @@ Minimal, fast, and animated developer portfolio built with a design-system-first
 <a href="https://www.linkedin.com/in/rahim-mammadov-a79991269/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:rehim.m04@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://t.me/your_telegram">
