@@ -21,7 +21,7 @@
   <a href="https://your-portfolio-url.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://your-resume-link.com/resume.pdf">
+  <a href="https://rahimmammadov.dev/Rahim_Mammadov_CV.pdf">
     <img src="https://img.shields.io/badge/Resume-2BDE98?style=for-the-badge&logo=readme&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/rahim-mammadov-a79991269/">
