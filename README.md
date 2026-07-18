@@ -300,7 +300,7 @@ Minimal, fast, and animated developer portfolio built with a design-system-first
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,github,gitlab,npm" />
+<img src="https://skillicons.dev/icons?i=postman,figma,github,gitlab,npm,yarn" />
 
 </td></tr>
 </table>
