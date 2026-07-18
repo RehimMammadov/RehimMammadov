@@ -286,21 +286,21 @@ Minimal, fast, and animated developer portfolio built with a design-system-first
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,php,graphql" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,django,fastapi,java,spring,php,laravel" />
 
 </td></tr>
 <tr><td>
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,oracle,redis" />
 
 </td></tr>
 <tr><td>
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=postman,figma,github,gitlab,npm,yarn" />
+<img src="https://skillicons.dev/icons?i=postman,figma,github,gitlab,npm,yarn,docker,graphql" />
 
 </td></tr>
 </table>
