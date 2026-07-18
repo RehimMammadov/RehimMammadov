@@ -279,28 +279,28 @@ Minimal, fast, and animated developer portfolio built with a design-system-first
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,typescript,javascript,html,css,sass,tailwind,bootstrap,redux,materialui,vite,webpack" />
 
 </td></tr>
 <tr><td>
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,django,flaskfastapi,java,spring,php,laravel" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,django,flask,fastapi,java,spring,php,laravel" />
 
 </td></tr>
 <tr><td>
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle,mariadb,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma,sequelize" />
 
 </td></tr>
 <tr><td>
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=postman,figma,trello,jira,github,gitlab,npm,yarn,docker,graphql" />
+<img src="https://skillicons.dev/icons?i=postman,figma,stackoverflow,sklearn,trello,jira,notion,git,github,gitlab,npm,yarn,pnpm,docker,kubernetes,openshift,graphql,firebase,linux,redhat,powershell,nginx,netlify,vercel" />
 
 </td></tr>
 </table>
