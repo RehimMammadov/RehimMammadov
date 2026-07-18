@@ -300,7 +300,7 @@ Minimal, fast, and animated developer portfolio built with a design-system-first
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=postman,figma,stackoverflow,sklearn,trello,jira,notion,git,github,gitlab,npm,yarn,pnpm,docker,kubernetes,openshift,graphql,firebase,linux,redhat,powershell,nginx,netlify,vercel" />
+<img src="https://skillicons.dev/icons?i=postman,figma,stackoverflow,sklearn,notion,git,github,gitlab,npm,yarn,pnpm,docker,kubernetes,openshift,graphql,firebase,linux,redhat,powershell,nginx,netlify,vercel" />
 
 </td></tr>
 </table>
