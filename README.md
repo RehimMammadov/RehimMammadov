@@ -16,8 +16,7 @@
 
 <br/><br/>
 
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://rahimmammadov.dev/Rahim_Mammadov_CV.pdf"><img src="https://img.shields.io/badge/Resume-2BDE98?style=for-the-badge&logo=readme&logoColor=black" /></a>
+<a href="https://rahimmammadov.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/rahim-mammadov-a79991269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rehim.m04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
