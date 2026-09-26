@@ -182,7 +182,7 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 </tr>
 <tr>
 <td width="22%" align="center"><b>🔄 CI/CD & DevOps</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,gitlab,jenkins,docker,kubernetes,nginx,vercel,netlify,sentry,turborepo,linux&perline=12" /></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,gitlab,jenkins,docker,kubernetes,openshift,nginx,vercel,netlify,sentry,linux&perline=12" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>⚙️ Backend</b></td>
