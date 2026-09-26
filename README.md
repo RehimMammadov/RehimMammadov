@@ -97,7 +97,7 @@ Built and maintained core customer-facing modules for an enterprise **insurance 
 </tr>
 <tr>
 <td width="14%" align="center" valign="middle">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vue" width="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="48"/>
 <br/><sub><b>Jul 2024 —<br/>Jul 2026</b></sub>
 </td>
 <td width="86%">
