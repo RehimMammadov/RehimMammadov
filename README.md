@@ -37,10 +37,10 @@ const rahim: Developer = {
   role: "Frontend / Full Stack Developer",
   currentWork: "Qala Insurance — Frontend Dev",
   stack: {
-    core:    ["React", "TypeScript", "Next.js"],
+    core:    ["React", "Vue", "TypeScript", "Next.js"],
     state:   ["Zustand", "Redux Toolkit", "TanStack Query"],
     testing: ["Jest", "Vitest", "RTL", "Playwright"],
-    backend: ["Laravel", "Node.js", "NestJS"],
+    backend: ["PHP", "Laravel", "Django", "NestJS"],
     ci_cd:   ["GitHub Actions", "Docker", "Vercel"],
   },
   learning: ["System Design", "GraphQL", "a11y"],
@@ -83,21 +83,21 @@ The best code is the code you never had to write — and the code you did write 
 
 ### Frontend Developer · **Qala Insurance**
 
-Built and maintained core customer-facing modules for an enterprise **insurance platform** — a **React + TypeScript** frontend integrated with a **Laravel**-powered backend and CMS.
+Built and maintained core customer-facing modules for an enterprise **insurance platform**, combining **React** and **Vue** SPAs with **PHP / Laravel Blade** server-rendered pages.
 
 - ⚡ Delivered high-performance, responsive UI for policy management, claims, and customer dashboards
 - 🔐 Implemented secure **authentication** flows and integrated **payment processing**
-- 🔌 Integrated **REST APIs** across multiple internal services
-- 🚀 Improved Core Web Vitals through code-splitting and asset optimization
-- 🤝 Worked with backend and design teams on a scalable, CMS-driven architecture
+- 🗃️ Managed complex client state with **Redux** and typed API layers in **TypeScript**
+- 🚀 Improved Core Web Vitals through **Vite** code-splitting and asset optimization
+- 🎨 Built a consistent, responsive design language with **Tailwind CSS**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,laravel,swagger,vite" height="34"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,ts,php,laravel,vite,tailwind,redux" height="34"/>
 
 </td>
 </tr>
 <tr>
 <td width="14%" align="center" valign="middle">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts" width="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vue" width="48"/>
 <br/><sub><b>Jul 2024 —<br/>Jul 2026</b></sub>
 </td>
 <td width="86%">
@@ -105,15 +105,57 @@ Built and maintained core customer-facing modules for an enterprise **insurance 
 ### Frontend Developer · **Qala Life Insurance**
 
 <!-- TODO: replace these bullets with achievements specific to this role -->
-Developed customer-facing features for a **life insurance** web platform using **React + TypeScript** with a **Laravel** backend and CMS.
+Developed customer-facing features for a **life insurance** web platform using **React**, **Vue**, and **TypeScript** alongside **Laravel Blade** templates.
 
 - 🧩 Built reusable, responsive UI components for policy and customer self-service flows
-- 🔐 Contributed to authentication and payment integrations
-- 🔌 Connected frontend features to internal **REST APIs**
-- 📈 Optimized bundle size and rendering performance
-- 🎨 Translated design specs into pixel-accurate, accessible interfaces
+- 🔐 Contributed to authentication and online payment integrations
+- 🔌 Connected frontend features to internal **REST APIs** and CMS-driven content
+- 🧱 Integrated interactive components into **Blade** views for a hybrid SSR + SPA setup
+- 📈 Reduced bundle size and load times with **Vite** and **Tailwind** purging
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,laravel,tailwind" height="34"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,ts,php,laravel,vite,tailwind,redux" height="34"/>
+
+</td>
+</tr>
+<tr>
+<td width="14%" align="center" valign="middle">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=angular" width="48"/>
+<br/><sub><b>Feb 2024 —<br/>May 2024</b></sub>
+</td>
+<td width="86%">
+
+### Frontend Developer · **GoldenPay OJSC**
+
+Worked on the web interfaces of **GoldenPay**, an Azerbaijani online payment provider, building merchant- and customer-facing features in **Angular**.
+
+- 💳 Developed payment-flow screens with a focus on clarity, validation, and error handling
+- 🧩 Built modular Angular components and services with **TypeScript** and **RxJS**
+- 📝 Implemented reactive forms with robust client-side validation for transaction data
+- 📱 Delivered responsive, cross-browser layouts with **Bootstrap** and **SCSS**
+- 🔌 Integrated frontend modules with backend payment and reporting APIs
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,ts,rxjs,bootstrap,sass,html,git" height="34"/>
+
+</td>
+</tr>
+<tr>
+<td width="14%" align="center" valign="middle">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=django" width="48"/>
+<br/><sub><b>Sep 2023 —<br/>Feb 2024</b></sub>
+</td>
+<td width="86%">
+
+### Full-Stack Developer · **Bamper Az (Startup)**
+
+Early full-stack engineer at **Bamper Az**, a startup where I owned features end-to-end — from database models to UI to deployment.
+
+- 🏗️ Built backend features, models, and admin tools with **Python** and **Django**
+- 🎨 Developed responsive, server-rendered pages with **HTML**, **CSS**, and **JavaScript**
+- 🐳 Containerized the application with **Docker** for consistent dev and production environments
+- 🌐 Configured **Nginx** as a reverse proxy and static file server for production
+- 🚀 Shipped fast in a small team, turning product ideas into working features within days
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,html,css,js,docker,nginx,linux" height="34"/>
 
 </td>
 </tr>
