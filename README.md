@@ -76,7 +76,7 @@ The best code is the code you never had to write — and the code you did write 
 <table width="100%">
 <tr>
 <td width="14%" align="center" valign="middle">
-<img src="https://skillicons.dev/icons?i=react" width="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="48"/>
 <br/><sub><b>Nov 2025 —<br/>Jul 2026</b></sub>
 </td>
 <td width="86%">
@@ -91,17 +91,13 @@ Built and maintained core customer-facing modules for an enterprise **insurance 
 - 🚀 Improved Core Web Vitals through code-splitting and asset optimization
 - 🤝 Worked with backend and design teams on a scalable, CMS-driven architecture
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![REST](https://img.shields.io/badge/-REST_APIs-0D1117?style=flat-square&logo=swagger&logoColor=85EA2D)
-![Payments](https://img.shields.io/badge/-Payments-0D1117?style=flat-square&logo=stripe&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,laravel,swagger,vite" height="34"/>
 
 </td>
 </tr>
 <tr>
 <td width="14%" align="center" valign="middle">
-<img src="https://skillicons.dev/icons?i=ts" width="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts" width="48"/>
 <br/><sub><b>Jul 2024 —<br/>Jul 2026</b></sub>
 </td>
 <td width="86%">
@@ -117,10 +113,7 @@ Developed customer-facing features for a **life insurance** web platform using *
 - 📈 Optimized bundle size and rendering performance
 - 🎨 Translated design specs into pixel-accurate, accessible interfaces
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![CMS](https://img.shields.io/badge/-CMS-0D1117?style=flat-square&logo=contentful&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,laravel,tailwind" height="34"/>
 
 </td>
 </tr>
@@ -131,119 +124,58 @@ Developed customer-facing features for a **life insurance** web platform using *
 <table width="100%">
 <tr>
 <td width="22%" align="center"><b>🎨 Frontend Core</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,vue,angular,vite,webpack,babel&perline=11" />
-</td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,ts,js,html,css,vue,angular,vite,webpack,babel&perline=12" /></td>
 </tr>
-
 <tr>
-<td align="center"><b>🗃️ State & Data</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=redux,apollo,graphql" />
-<br/>
-<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/RTK_Query-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-</td>
+<td width="22%" align="center"><b>🗃️ State & Data</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=redux,zustand,tanstack,apollo,graphql,axios,reactrouter,socketio&perline=12" /></td>
 </tr>
-
 <tr>
-<td align="center"><b>📝 Forms & Validation</b></td>
-<td>
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
-<img src="https://img.shields.io/badge/Yup-2C3E50?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white" />
-</td>
+<td width="22%" align="center"><b>💅 Styling & UI</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,sass,styledcomponents,emotion,materialui,bootstrap,shadcn,radix,framer,storybook,chartjs&perline=12" /></td>
 </tr>
-
 <tr>
-<td align="center"><b>💅 Styling & UI</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,materialui,bootstrap" />
-<br/>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-</td>
+<td width="22%" align="center"><b>🧪 Testing</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=jest,vitest,testinglibrary,playwright,cypress,selenium,lighthouse&perline=12" /></td>
 </tr>
-
 <tr>
-<td align="center"><b>🧪 Testing</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium" />
-<br/>
-<img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white" />
-<img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white" />
-</td>
+<td width="22%" align="center"><b>🔄 CI/CD & DevOps</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,gitlab,jenkins,docker,kubernetes,nginx,vercel,netlify,sentry,turborepo,linux&perline=12" /></td>
 </tr>
-
 <tr>
-<td align="center"><b>🔄 CI/CD & DevOps</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,docker,kubernetes,nginx,vercel,netlify,linux" />
-<br/>
-<img src="https://img.shields.io/badge/CI%2FCD-2BDE98?style=for-the-badge&logo=githubactions&logoColor=black" />
-<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
-</td>
+<td width="22%" align="center"><b>⚙️ Backend</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,express,php,laravel,python,django,fastapi,java,spring&perline=12" /></td>
 </tr>
-
 <tr>
-<td align="center"><b>🧹 Code Quality</b></td>
-<td>
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-<img src="https://img.shields.io/badge/Husky-42B983?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Commitlint-000000?style=for-the-badge&logo=commitlint&logoColor=white" />
-</td>
+<td width="22%" align="center"><b>🗄️ Databases</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,redis,firebase,prisma,sequelize&perline=12" /></td>
 </tr>
-
 <tr>
-<td align="center"><b>⚙️ Backend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,python,django,fastapi,java,spring" />
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>🗄️ Databases</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,prisma,sequelize" />
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>🧰 Tools</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,github,npm,yarn,pnpm,postman,figma,notion,vscode" />
-</td>
+<td width="22%" align="center"><b>🧰 Tools & Quality</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier,git,github,npm,yarn,pnpm,postman,swagger,figma,notion,vscode&perline=12" /></td>
 </tr>
 </table>
 
 ## 🔁 How I Ship
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/1._Commit-0D1117?style=for-the-badge&logo=git&logoColor=2BDE98" />
-➜
-<img src="https://img.shields.io/badge/2._Lint_&_Type--check-0D1117?style=for-the-badge&logo=eslint&logoColor=2BDE98" />
-➜
-<img src="https://img.shields.io/badge/3._Unit_Tests-0D1117?style=for-the-badge&logo=jest&logoColor=2BDE98" />
-➜
-<img src="https://img.shields.io/badge/4._E2E_Tests-0D1117?style=for-the-badge&logo=playwright&logoColor=2BDE98" />
-➜
-<img src="https://img.shields.io/badge/5._Build-0D1117?style=for-the-badge&logo=docker&logoColor=2BDE98" />
-➜
-<img src="https://img.shields.io/badge/6._Deploy-0D1117?style=for-the-badge&logo=vercel&logoColor=2BDE98" />
-
+<table>
+<tr>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="44"/><br/><sub>Commit</sub></td>
+<td align="center">➜</td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=eslint" width="44"/><br/><sub>Lint</sub></td>
+<td align="center">➜</td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" width="44"/><br/><sub>Type-check</sub></td>
+<td align="center">➜</td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=jest" width="44"/><br/><sub>Unit</sub></td>
+<td align="center">➜</td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=playwright" width="44"/><br/><sub>E2E</sub></td>
+<td align="center">➜</td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="44"/><br/><sub>Build</sub></td>
+<td align="center">➜</td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="44"/><br/><sub>Deploy</sub></td>
+</tr>
+</table>
 </div>
 
 <table width="100%">
@@ -281,7 +213,7 @@ Developed customer-facing features for a **life insurance** web platform using *
 
 Admin dashboard for orders, inventory, and analytics with real-time charts and role-based access.
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,chartjs,tailwind" height="34"/>
 
 <a href="https://github.com/RehimMammadov/ecommerce-dashboard"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -295,7 +227,7 @@ Admin dashboard for orders, inventory, and analytics with real-time charts and r
 
 Enterprise insurance web platform: policy management, claims, CMS, authentication, and payments.
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,laravel,swagger" height="34"/>
 
 <img src="https://img.shields.io/badge/Private_Repo-30363D?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -310,7 +242,7 @@ Enterprise insurance web platform: policy management, claims, CMS, authenticatio
 
 Full-stack messaging app with rooms, typing indicators, and message history over WebSockets.
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nestjs,socketio,mongodb" height="34"/>
 
 <a href="https://github.com/RehimMammadov/realtime-chat"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -324,7 +256,7 @@ Full-stack messaging app with rooms, typing indicators, and message history over
 
 Accessible React component library with Storybook docs, theming, and full test coverage.
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) ![RTL](https://img.shields.io/badge/-RTL-E33332?style=flat-square&logo=testinglibrary&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,storybook,testinglibrary,tailwind" height="34"/>
 
 <a href="https://github.com/RehimMammadov/component-library"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Docs-2BDE98?style=for-the-badge&logo=storybook&logoColor=black"/></a>
@@ -340,7 +272,7 @@ Accessible React component library with Storybook docs, theming, and full test c
 
 Task management with real-time boards and team workspaces, server state via TanStack Query and UI state via Zustand.
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TanStack](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Zustand](https://img.shields.io/badge/-Zustand-443E38?style=flat-square) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,tanstack,zustand,nestjs,postgres" height="34"/>
 
 <a href="https://github.com/RehimMammadov/task-manager"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -354,7 +286,7 @@ Task management with real-time boards and team workspaces, server state via TanS
 
 Appointment booking with calendar sync, email reminders, an admin panel, and Playwright E2E coverage.
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,nestjs,postgres,playwright" height="34"/>
 
 <a href="https://github.com/RehimMammadov/booking-app"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -370,7 +302,7 @@ Appointment booking with calendar sync, email reminders, an admin panel, and Pla
 
 Headless CMS-driven starter for blogs, marketing pages, and docs — out of the box.
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![REST](https://img.shields.io/badge/-REST_APIs-0D1117?style=flat-square&logo=swagger&logoColor=85EA2D)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,laravel,swagger" height="34"/>
 
 <a href="https://github.com/RehimMammadov/cms-starter-kit"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Docs-2BDE98?style=for-the-badge&logo=readthedocs&logoColor=black"/></a>
@@ -384,7 +316,7 @@ Headless CMS-driven starter for blogs, marketing pages, and docs — out of the 
 
 Minimal, fast, animated portfolio built with a design-system-first approach.
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,framer,tailwind" height="34"/>
 
 <a href="https://github.com/RehimMammadov/developer-portfolio"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -425,13 +357,13 @@ Minimal, fast, animated portfolio built with a design-system-first approach.
 
 <!-- Update the number in each geps.dev/progress/<value> URL as you progress -->
 <table width="100%">
-<tr><td width="30%"><b>▲ Next.js (App Router)</b></td><td><img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>🎭 Playwright E2E</b></td><td><img src="https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
+<tr><td width="30%"><b><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" width="20" align="center"/>&nbsp; Next.js (App Router)</b></td><td><img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
+<tr><td><b><img src="https://go-skill-icons.vercel.app/api/icons?i=playwright" width="20" align="center"/>&nbsp; Playwright E2E</b></td><td><img src="https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
 <tr><td><b>♿ Web Accessibility</b></td><td><img src="https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>◈ GraphQL</b></td><td><img src="https://geps.dev/progress/55?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
+<tr><td><b><img src="https://go-skill-icons.vercel.app/api/icons?i=graphql" width="20" align="center"/>&nbsp; GraphQL</b></td><td><img src="https://geps.dev/progress/55?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
 <tr><td><b>🏗️ System Design</b></td><td><img src="https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>🐈 NestJS</b></td><td><img src="https://geps.dev/progress/45?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>🐘 PostgreSQL</b></td><td><img src="https://geps.dev/progress/55?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
+<tr><td><b><img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" width="20" align="center"/>&nbsp; NestJS</b></td><td><img src="https://geps.dev/progress/45?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
+<tr><td><b><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="20" align="center"/>&nbsp; PostgreSQL</b></td><td><img src="https://geps.dev/progress/55?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
 </table>
 
 ## 🐍 Contribution Snake
