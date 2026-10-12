@@ -189,7 +189,7 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 </tr>
 <tr>
 <td width="22%" align="center"><b>🗄️ Databases</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,redis,firebase,prisma,sequelize&perline=12" /></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,prisma,sequelize&perline=12" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>🧰 Tools & Quality</b></td>
