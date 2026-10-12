@@ -394,19 +394,6 @@ Minimal, fast, animated portfolio built with a design-system-first approach.
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 🧭 Learning Roadmap
-
-<!-- Update the number in each geps.dev/progress/<value> URL as you progress -->
-<table width="100%">
-<tr><td width="30%"><b><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" width="20" align="center"/>&nbsp; Next.js (App Router)</b></td><td><img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b><img src="https://go-skill-icons.vercel.app/api/icons?i=playwright" width="20" align="center"/>&nbsp; Playwright E2E</b></td><td><img src="https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>♿ Web Accessibility</b></td><td><img src="https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b><img src="https://go-skill-icons.vercel.app/api/icons?i=graphql" width="20" align="center"/>&nbsp; GraphQL</b></td><td><img src="https://geps.dev/progress/55?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b>🏗️ System Design</b></td><td><img src="https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b><img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" width="20" align="center"/>&nbsp; NestJS</b></td><td><img src="https://geps.dev/progress/45?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-<tr><td><b><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="20" align="center"/>&nbsp; PostgreSQL</b></td><td><img src="https://geps.dev/progress/55?dangerColor=800000&warningColor=ff9900&successColor=2BDE98" /></td></tr>
-</table>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
