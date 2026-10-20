@@ -181,7 +181,7 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 </tr>
 <tr>
 <td width="22%" align="center"><b>🔄 CI/CD & DevOps</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,gitlab,docker,kubernetes,openshift,nginx,apache,vercel,netlify,sentry,linux,wsl,oracle,aws,azure,terraform&perline=12" /></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,gitlab,docker,kubernetes,openshift,apache,linux,wsl,oracle,aws,azure,terraform&perline=12" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>⚙️ Backend</b></td>
@@ -193,7 +193,7 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 </tr>
 <tr>
 <td width="22%" align="center"><b>🧰 Tools & Quality</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier,git,github,npm,yarn,pnpm,postman,swagger,figma,notion,vscode&perline=12" /></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier,git,github,npm,yarn,pnpm,postman,swagger,figma,notion,sentry&perline=12" /></td>
 </tr>
 </table>
 
