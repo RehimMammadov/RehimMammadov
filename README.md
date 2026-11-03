@@ -185,7 +185,7 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 </tr>
 <tr>
 <td width="22%" align="center"><b>⚙️ Backend</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,express,php,laravel,python,django,fastapi,java,spring&perline=12" /></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,express,php,laravel,python,django,fastapi,java,spring,kafka,rabbitmq&perline=12" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>🗄️ Databases</b></td>
