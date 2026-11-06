@@ -387,6 +387,16 @@ Minimal, fast, animated portfolio built with a design-system-first approach.
 
 </div>
 
+## 💻 Most Used Languages
+
+<div align="center">
+
+<!-- Top 10 languages by percentage of code across public repos (auto-updates daily) -->
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehimMammadov&layout=donut&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2BDE98&text_color=C9D1D9&title=Top%2010%20Languages&cache_seconds=86400" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehimMammadov&layout=normal&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2BDE98&text_color=C9D1D9&title=Language%20Breakdown%20(%25)&cache_seconds=86400" />
+
+</div>
+
 <!-- WakaTime: see docs/CUSTOMIZATION.md to enable the waka.yml workflow -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
