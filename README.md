@@ -407,6 +407,8 @@ Minimal, fast, animated portfolio built with a design-system-first approach.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+<br/>
+<sub>🐍 Every green square is a day of commits, and the snake eats them all · updates every 12 hours</sub>
 </div>
 
 <div align="center">
