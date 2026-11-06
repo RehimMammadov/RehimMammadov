@@ -27,18 +27,18 @@ jobs:
           GH_USER: ${{ github.repository_owner }}
           SKIP_REPOS: "" # comma-separated repo names to exclude
 
-      - name: Publish to output branch
+      - name: Publish to metrics branch
         run: |
           mkdir -p /tmp/out && mv languages.svg /tmp/out/
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin output || true
-          if git rev-parse --verify origin/output >/dev/null 2>&1; then
-            git checkout -B output origin/output
+          git fetch origin metrics || true
+          if git rev-parse --verify origin/metrics >/dev/null 2>&1; then
+            git checkout -B metrics origin/metrics
           else
-            git checkout --orphan output && git rm -rf . >/dev/null
+            git checkout --orphan metrics && git rm -rf . >/dev/null
           fi
           cp /tmp/out/languages.svg .
           git add languages.svg
           git commit -m "Update languages.svg" || exit 0
-          git push origin output
+          git push origin metrics
