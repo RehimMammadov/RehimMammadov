@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="370" viewBox="0 0 560 370">
+  <style>
+    text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .title { fill: #2BDE98; font-size: 17px; font-weight: 700; }
+    .rank { fill: #8B949E; font-size: 13px; font-weight: 600; }
+    .lang { fill: #C9D1D9; font-size: 14px; }
+    .meta { fill: #8B949E; font-size: 12px; }
+  </style>
+  <rect width="100%" height="100%" rx="10" fill="#0D1117"/>
+  <text x="20" y="34" class="title">Top 10 Languages · by projects &amp; files</text>
+  
+  <text x="20" y="74" class="rank">#1</text>
+  <circle cx="62" cy="69" r="6" fill="#F1E05A"/>
+  <text x="76" y="74" class="lang">JavaScript</text>
+  <rect x="180" y="63" width="220" height="12" rx="6" fill="#21262D"/>
+  <rect x="180" y="63" width="220.0" height="12" rx="6" fill="#F1E05A"/>
+  <text x="540" y="74" class="meta" text-anchor="end">42 proj · 691 files</text>
+  <text x="20" y="104" class="rank">#2</text>
+  <circle cx="62" cy="99" r="6" fill="#3178C6"/>
+  <text x="76" y="104" class="lang">TypeScript</text>
+  <rect x="180" y="93" width="220" height="12" rx="6" fill="#21262D"/>
+  <rect x="180" y="93" width="136.2" height="12" rx="6" fill="#3178C6"/>
+  <text x="540" y="104" class="meta" text-anchor="end">26 proj · 1864 files</text>
+  <text x="20" y="134" class="rank">#3</text>
+  <circle cx="62" cy="129" r="6" fill="#C6538C"/>
+  <text x="76" y="134" class="lang">SCSS</text>
+  <rect x="180" y="123" width="220" height="12" rx="6" fill="#21262D"/>
+  <rect x="180" y="123" width="57.6" height="12" rx="6" fill="#C6538C"/>
+  <text x="540" y="134" class="meta" text-anchor="end">11 proj · 73 files</text>
+  <text x="20" y="164" class="rank">#4</text>
+  <circle cx="62" cy="159" r="6" fill="#555555"/>
+  <text x="76" y="164" class="lang">C</text>
+  <rect x="180" y="153" width="220" height="12" rx="6" fill="#21262D"/>
+  <rect x="180" y="153" width="21.0" height="12" rx="6" fill="#555555"/>
+  <text x="540" y="164" class="meta" text-anchor="end">4 proj · 12 files</text>
+  <text x="20" y="194" class="rank">#5</text>
+  <circle cx="62" cy="189" r="6" fill="#B07219"/>
+  <text x="76" y="194" class="lang">Java</text>
+  <rect x="180" y="183" width="220" height="12" rx="6" fill="#21262D"/>
+  <rect x="180" y="183" width="15.7" height="12" rx="6" fill="#B07219"/>
+  <text x="540" y="194" class="meta" text-anchor="end">3 proj · 78 files</text>
+  <text x="20" y="224" class="rank">#6</text>
+  <circle cx="62" cy="219" r="6" fill="#3572A5"/>
+  <text x="76" y="224" class="lang">Python</text>
+  <rect x="180" y="213" width="220" height="12" rx="6" fill="#21262D"/>
+  <rect x="180" y="213" width="10.5" height="12" rx="6" fill="#3572A5"/>
+  <text x="540" y="224" class="meta" text-anchor="end">2 proj · 25 files</text>
+  <text x="20" y="254" class="rank">#7</text>
+  <circle cx="62" cy="249" r="6" fill="#4F5D95"/>
+  <text x="76" y="254" class="lang">PHP</text>
+  <rect x="180" y="243" width="220" height="12" rx="6" fill="#21262D"/>
+  <rect x="180" y="243" width="10.5" height="12" rx="6" fill="#4F5D95"/>
+  <text x="540" y="254" class="meta" text-anchor="end">2 proj · 25 files</text>
+  <text x="20" y="284" class="rank">#8</text>
+  <circle cx="62" cy="279" r="6" fill="#F34B7D"/>
+  <text x="76" y="284" class="lang">C++</text>
+  <rect x="180" y="273" width="220" height="12" rx="6" fill="#21262D"/>
+  <rect x="180" y="273" width="10.5" height="12" rx="6" fill="#F34B7D"/>
+  <text x="540" y="284" class="meta" text-anchor="end">2 proj · 9 files</text>
+  <text x="20" y="314" class="rank">#9</text>
+  <circle cx="62" cy="309" r="6" fill="#8B949E"/>
+  <text x="76" y="314" class="lang">Swift</text>
+  <rect x="180" y="303" width="220" height="12" rx="6" fill="#21262D"/>
+  <rect x="180" y="303" width="10.5" height="12" rx="6" fill="#8B949E"/>
+  <text x="540" y="314" class="meta" text-anchor="end">2 proj · 7 files</text>
+  <text x="20" y="344" class="rank">#10</text>
+  <circle cx="62" cy="339" r="6" fill="#A97BFF"/>
+  <text x="76" y="344" class="lang">Kotlin</text>
+  <rect x="180" y="333" width="220" height="12" rx="6" fill="#21262D"/>
+  <rect x="180" y="333" width="10.5" height="12" rx="6" fill="#A97BFF"/>
+  <text x="540" y="344" class="meta" text-anchor="end">2 proj · 3 files</text>
+</svg>
