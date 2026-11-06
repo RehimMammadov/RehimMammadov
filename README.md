@@ -379,7 +379,6 @@ Minimal, fast, animated portfolio built with a design-system-first approach.
 
 <img src="https://streak-stats.demolab.com/?user=RehimMammadov&theme=tokyonight&hide_border=true&background=0D1117&ring=2BDE98&fire=2BDE98&currStreakLabel=2BDE98" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RehimMammadov&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2BDE98&line=2BDE98&point=FFFFFF&area=true" width="100%"/>
 
 
 </div>
@@ -389,7 +388,7 @@ Minimal, fast, animated portfolio built with a design-system-first approach.
 <div align="center">
 
 <!-- Generated daily by .github/workflows/languages.yml (no external service needed) -->
-<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/output/languages.svg" alt="Top 10 languages by projects and files" />
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/metrics/languages.svg" alt="Top 10 languages by projects and files" />
 
 </div>
 
