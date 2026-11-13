@@ -20,13 +20,13 @@
   <text x="76" y="104" class="lang">TypeScript</text>
   <rect x="180" y="93" width="220" height="12" rx="6" fill="#21262D"/>
   <rect x="180" y="93" width="141.4" height="12" rx="6" fill="#3178C6"/>
-  <text x="540" y="104" class="meta" text-anchor="end">27 proj · 1913 files</text>
+  <text x="540" y="104" class="meta" text-anchor="end">27 proj · 1916 files</text>
   <text x="20" y="134" class="rank">#3</text>
   <circle cx="62" cy="129" r="6" fill="#C6538C"/>
   <text x="76" y="134" class="lang">SCSS</text>
   <rect x="180" y="123" width="220" height="12" rx="6" fill="#21262D"/>
   <rect x="180" y="123" width="62.9" height="12" rx="6" fill="#C6538C"/>
-  <text x="540" y="134" class="meta" text-anchor="end">12 proj · 83 files</text>
+  <text x="540" y="134" class="meta" text-anchor="end">12 proj · 84 files</text>
   <text x="20" y="164" class="rank">#4</text>
   <circle cx="62" cy="159" r="6" fill="#555555"/>
   <text x="76" y="164" class="lang">C</text>
@@ -38,7 +38,7 @@
   <text x="76" y="194" class="lang">Java</text>
   <rect x="180" y="183" width="220" height="12" rx="6" fill="#21262D"/>
   <rect x="180" y="183" width="15.7" height="12" rx="6" fill="#B07219"/>
-  <text x="540" y="194" class="meta" text-anchor="end">3 proj · 292 files</text>
+  <text x="540" y="194" class="meta" text-anchor="end">3 proj · 317 files</text>
   <text x="20" y="224" class="rank">#6</text>
   <circle cx="62" cy="219" r="6" fill="#3572A5"/>
   <text x="76" y="224" class="lang">Python</text>
