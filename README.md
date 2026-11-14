@@ -75,7 +75,7 @@ The best code is the code you never had to write — and the code you did write 
 <table width="100%">
 <tr>
 <td width="14%" align="center" valign="middle">
-<img src="https://skillicons.dev/icons?i=react" width="48"/>
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/react.svg" width="48" alt="react" title="react"/>
 <br/><sub><b>Nov 2025 —<br/>Jul 2026</b></sub>
 </td>
 <td width="86%">
@@ -90,13 +90,13 @@ Built and maintained core customer-facing modules for an enterprise **insurance 
 - 🚀 Improved Core Web Vitals through **Vite** code-splitting and asset optimization
 - 🎨 Built a consistent, responsive design language with **Tailwind CSS**
 
-<img src="https://skillicons.dev/icons?i=react,vue,ts,php,laravel,vite,tailwind,redux" height="34"/>
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/react.svg" height="34" alt="react" title="react"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/vue.svg" height="34" alt="vue" title="vue"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/ts.svg" height="34" alt="ts" title="ts"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/php.svg" height="34" alt="php" title="php"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/laravel.svg" height="34" alt="laravel" title="laravel"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/vite.svg" height="34" alt="vite" title="vite"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/tailwind.svg" height="34" alt="tailwind" title="tailwind"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/redux.svg" height="34" alt="redux" title="redux"/>
 
 </td>
 </tr>
 <tr>
 <td width="14%" align="center" valign="middle">
-<img src="https://skillicons.dev/icons?i=react" width="48"/>
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/react.svg" width="48" alt="react" title="react"/>
 <br/><sub><b>Jul 2024 —<br/>Jul 2026</b></sub>
 </td>
 <td width="86%">
@@ -112,13 +112,13 @@ Developed customer-facing features for a **life insurance** web platform using *
 - 🧱 Integrated interactive components into **Blade** views for a hybrid SSR + SPA setup
 - 📈 Reduced bundle size and load times with **Vite** and **Tailwind** purging
 
-<img src="https://skillicons.dev/icons?i=react,vue,ts,php,laravel,vite,tailwind,redux" height="34"/>
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/react.svg" height="34" alt="react" title="react"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/vue.svg" height="34" alt="vue" title="vue"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/ts.svg" height="34" alt="ts" title="ts"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/php.svg" height="34" alt="php" title="php"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/laravel.svg" height="34" alt="laravel" title="laravel"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/vite.svg" height="34" alt="vite" title="vite"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/tailwind.svg" height="34" alt="tailwind" title="tailwind"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/redux.svg" height="34" alt="redux" title="redux"/>
 
 </td>
 </tr>
 <tr>
 <td width="14%" align="center" valign="middle">
-<img src="https://skillicons.dev/icons?i=angular" width="48"/>
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/angular.svg" width="48" alt="angular" title="angular"/>
 <br/><sub><b>Feb 2024 —<br/>May 2024</b></sub>
 </td>
 <td width="86%">
@@ -133,13 +133,13 @@ Worked on the web interfaces of **GoldenPay**, an Azerbaijani online payment pro
 - 📱 Delivered responsive, cross-browser layouts with **Bootstrap** and **SCSS**
 - 🔌 Integrated frontend modules with backend payment and reporting APIs
 
-<img src="https://skillicons.dev/icons?i=angular,ts,reactivex,bootstrap,sass,html,git" height="34"/>
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/angular.svg" height="34" alt="angular" title="angular"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/ts.svg" height="34" alt="ts" title="ts"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/rxjs.svg" height="34" alt="rxjs" title="rxjs"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/bootstrap.svg" height="34" alt="bootstrap" title="bootstrap"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/sass.svg" height="34" alt="sass" title="sass"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/html.svg" height="34" alt="html" title="html"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/git.svg" height="34" alt="git" title="git"/>
 
 </td>
 </tr>
 <tr>
 <td width="14%" align="center" valign="middle">
-<img src="https://skillicons.dev/icons?i=django" width="48"/>
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/django.svg" width="48" alt="django" title="django"/>
 <br/><sub><b>Sep 2023 —<br/>Feb 2024</b></sub>
 </td>
 <td width="86%">
@@ -154,7 +154,7 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 - 🌐 Configured **Nginx** as a reverse proxy and static file server for production
 - 🚀 Shipped fast in a small team, turning product ideas into working features within days
 
-<img src="https://skillicons.dev/icons?i=py,django,html,css,js,docker,nginx,linux" height="34"/>
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/python.svg" height="34" alt="python" title="python"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/django.svg" height="34" alt="django" title="django"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/html.svg" height="34" alt="html" title="html"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/css.svg" height="34" alt="css" title="css"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/js.svg" height="34" alt="js" title="js"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/docker.svg" height="34" alt="docker" title="docker"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/nginx.svg" height="34" alt="nginx" title="nginx"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/linux.svg" height="34" alt="linux" title="linux"/>
 
 </td>
 </tr>
@@ -165,35 +165,35 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 <table width="100%">
 <tr>
 <td width="22%" align="center"><b>🎨 Frontend Core</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,vue,angular,vite,webpack,babel&perline=12" /></td>
+<td><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/react.svg" width="48" alt="react" title="react"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/nextjs.svg" width="48" alt="nextjs" title="nextjs"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/ts.svg" width="48" alt="ts" title="ts"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/js.svg" width="48" alt="js" title="js"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/html.svg" width="48" alt="html" title="html"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/css.svg" width="48" alt="css" title="css"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/vue.svg" width="48" alt="vue" title="vue"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/angular.svg" width="48" alt="angular" title="angular"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/vite.svg" width="48" alt="vite" title="vite"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/webpack.svg" width="48" alt="webpack" title="webpack"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/babel.svg" width="48" alt="babel" title="babel"/></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>🗃️ State & Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=redux,apollo,graphql&perline=12" /></td>
+<td><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/redux.svg" width="48" alt="redux" title="redux"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/zustand.svg" width="48" alt="zustand" title="zustand"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/tanstack.svg" width="48" alt="tanstack" title="tanstack"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/apollo.svg" width="48" alt="apollo" title="apollo"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/graphql.svg" width="48" alt="graphql" title="graphql"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/axios.svg" width="48" alt="axios" title="axios"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/reactrouter.svg" width="48" alt="reactrouter" title="reactrouter"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/socketio.svg" width="48" alt="socketio" title="socketio"/></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>💅 Styling & UI</b></td>
-<td><img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,emotion,materialui,bootstrap&perline=12" /></td>
+<td><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/tailwind.svg" width="48" alt="tailwind" title="tailwind"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/sass.svg" width="48" alt="sass" title="sass"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/styledcomponents.svg" width="48" alt="styledcomponents" title="styledcomponents"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/emotion.svg" width="48" alt="emotion" title="emotion"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/materialui.svg" width="48" alt="materialui" title="materialui"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/bootstrap.svg" width="48" alt="bootstrap" title="bootstrap"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/shadcn.svg" width="48" alt="shadcn" title="shadcn"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/radix.svg" width="48" alt="radix" title="radix"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/framer.svg" width="48" alt="framer" title="framer"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/storybook.svg" width="48" alt="storybook" title="storybook"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/chartjs.svg" width="48" alt="chartjs" title="chartjs"/></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>🧪 Testing</b></td>
-<td><img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium&perline=12" /></td>
+<td><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/jest.svg" width="48" alt="jest" title="jest"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/vitest.svg" width="48" alt="vitest" title="vitest"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/testinglibrary.svg" width="48" alt="testinglibrary" title="testinglibrary"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/playwright.svg" width="48" alt="playwright" title="playwright"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/cypress.svg" width="48" alt="cypress" title="cypress"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/selenium.svg" width="48" alt="selenium" title="selenium"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/lighthouse.svg" width="48" alt="lighthouse" title="lighthouse"/></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>🔄 CI/CD & DevOps</b></td>
-<td><img src="https://skillicons.dev/icons?i=githubactions,gitlab,docker,kubernetes,openshift,apache,linux,aws,terraform,cloudflare&perline=12" /></td>
+<td><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/githubactions.svg" width="48" alt="githubactions" title="githubactions"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/gitlab.svg" width="48" alt="gitlab" title="gitlab"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/docker.svg" width="48" alt="docker" title="docker"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/kubernetes.svg" width="48" alt="kubernetes" title="kubernetes"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/openshift.svg" width="48" alt="openshift" title="openshift"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/apache.svg" width="48" alt="apache" title="apache"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/linux.svg" width="48" alt="linux" title="linux"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/wsl.svg" width="48" alt="wsl" title="wsl"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/oracle.svg" width="48" alt="oracle" title="oracle"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/aws.svg" width="48" alt="aws" title="aws"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/terraform.svg" width="48" alt="terraform" title="terraform"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/cloudflare.svg" width="48" alt="cloudflare" title="cloudflare"/></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>⚙️ Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,py,django,fastapi,java,spring,kafka,rabbitmq&perline=12" /></td>
+<td><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/nodejs.svg" width="48" alt="nodejs" title="nodejs"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/nestjs.svg" width="48" alt="nestjs" title="nestjs"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/express.svg" width="48" alt="express" title="express"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/php.svg" width="48" alt="php" title="php"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/laravel.svg" width="48" alt="laravel" title="laravel"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/python.svg" width="48" alt="python" title="python"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/django.svg" width="48" alt="django" title="django"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/fastapi.svg" width="48" alt="fastapi" title="fastapi"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/java.svg" width="48" alt="java" title="java"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/spring.svg" width="48" alt="spring" title="spring"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/kafka.svg" width="48" alt="kafka" title="kafka"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/rabbitmq.svg" width="48" alt="rabbitmq" title="rabbitmq"/></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>🗄️ Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,prisma,sequelize&perline=12" /></td>
+<td><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/postgres.svg" width="48" alt="postgres" title="postgres"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/mysql.svg" width="48" alt="mysql" title="mysql"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/mongodb.svg" width="48" alt="mongodb" title="mongodb"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/redis.svg" width="48" alt="redis" title="redis"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/firebase.svg" width="48" alt="firebase" title="firebase"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/supabase.svg" width="48" alt="supabase" title="supabase"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/prisma.svg" width="48" alt="prisma" title="prisma"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/sequelize.svg" width="48" alt="sequelize" title="sequelize"/></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>🧰 Tools & Quality</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,npm,yarn,pnpm,postman,figma,notion,sentry&perline=12" /></td>
+<td><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/eslint.svg" width="48" alt="eslint" title="eslint"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/prettier.svg" width="48" alt="prettier" title="prettier"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/git.svg" width="48" alt="git" title="git"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/github.svg" width="48" alt="github" title="github"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/npm.svg" width="48" alt="npm" title="npm"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/yarn.svg" width="48" alt="yarn" title="yarn"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/pnpm.svg" width="48" alt="pnpm" title="pnpm"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/postman.svg" width="48" alt="postman" title="postman"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/swagger.svg" width="48" alt="swagger" title="swagger"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/figma.svg" width="48" alt="figma" title="figma"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/notion.svg" width="48" alt="notion" title="notion"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/sentry.svg" width="48" alt="sentry" title="sentry"/></td>
 </tr>
 </table>
 
@@ -202,19 +202,19 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 <div align="center">
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="44"/><br/><sub>Commit</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/git.svg" width="44" alt="git" title="git"/><br/><sub>Commit</sub></td>
 <td align="center">➜</td>
-<td align="center"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" /><br/><sub>Lint</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/eslint.svg" width="44" alt="eslint" title="eslint"/><br/><sub>Lint</sub></td>
 <td align="center">➜</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="44"/><br/><sub>Type-check</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/ts.svg" width="44" alt="ts" title="ts"/><br/><sub>Type-check</sub></td>
 <td align="center">➜</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=jest" width="44"/><br/><sub>Unit</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/jest.svg" width="44" alt="jest" title="jest"/><br/><sub>Unit</sub></td>
 <td align="center">➜</td>
-<td align="center"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /><br/><sub>E2E</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/playwright.svg" width="44" alt="playwright" title="playwright"/><br/><sub>E2E</sub></td>
 <td align="center">➜</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="44"/><br/><sub>Build</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/docker.svg" width="44" alt="docker" title="docker"/><br/><sub>Build</sub></td>
 <td align="center">➜</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="44"/><br/><sub>Deploy</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/vercel.svg" width="44" alt="vercel" title="vercel"/><br/><sub>Deploy</sub></td>
 </tr>
 </table>
 </div>
@@ -254,7 +254,7 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 
 Admin dashboard for orders, inventory, and analytics with real-time charts and role-based access.
 
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="34"/><br/><img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/react.svg" height="34" alt="react" title="react"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/ts.svg" height="34" alt="ts" title="ts"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/chartjs.svg" height="34" alt="chartjs" title="chartjs"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/tailwind.svg" height="34" alt="tailwind" title="tailwind"/>
 
 <a href="https://github.com/RehimMammadov/ecommerce-dashboard"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -268,7 +268,7 @@ Admin dashboard for orders, inventory, and analytics with real-time charts and r
 
 Enterprise insurance web platform: policy management, claims, CMS, authentication, and payments.
 
-<img src="https://skillicons.dev/icons?i=react,ts,laravel" height="34"/><br/><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" />
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/react.svg" height="34" alt="react" title="react"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/ts.svg" height="34" alt="ts" title="ts"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/laravel.svg" height="34" alt="laravel" title="laravel"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/swagger.svg" height="34" alt="swagger" title="swagger"/>
 
 <img src="https://img.shields.io/badge/Private_Repo-30363D?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -283,7 +283,7 @@ Enterprise insurance web platform: policy management, claims, CMS, authenticatio
 
 Full-stack messaging app with rooms, typing indicators, and message history over WebSockets.
 
-<img src="https://skillicons.dev/icons?i=react,nestjs,mongodb" height="34"/><br/><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/react.svg" height="34" alt="react" title="react"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/nestjs.svg" height="34" alt="nestjs" title="nestjs"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/socketio.svg" height="34" alt="socketio" title="socketio"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/mongodb.svg" height="34" alt="mongodb" title="mongodb"/>
 
 <a href="https://github.com/RehimMammadov/realtime-chat"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -297,7 +297,7 @@ Full-stack messaging app with rooms, typing indicators, and message history over
 
 Accessible React component library with Storybook docs, theming, and full test coverage.
 
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="34"/><br/><img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" /> <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" />
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/react.svg" height="34" alt="react" title="react"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/ts.svg" height="34" alt="ts" title="ts"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/storybook.svg" height="34" alt="storybook" title="storybook"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/testinglibrary.svg" height="34" alt="testinglibrary" title="testinglibrary"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/tailwind.svg" height="34" alt="tailwind" title="tailwind"/>
 
 <a href="https://github.com/RehimMammadov/component-library"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Docs-2BDE98?style=for-the-badge&logo=storybook&logoColor=black"/></a>
@@ -313,7 +313,7 @@ Accessible React component library with Storybook docs, theming, and full test c
 
 Task management with real-time boards and team workspaces, server state via TanStack Query and UI state via Zustand.
 
-<img src="https://skillicons.dev/icons?i=react,nestjs,postgres" height="34"/><br/><img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/react.svg" height="34" alt="react" title="react"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/tanstack.svg" height="34" alt="tanstack" title="tanstack"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/zustand.svg" height="34" alt="zustand" title="zustand"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/nestjs.svg" height="34" alt="nestjs" title="nestjs"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/postgres.svg" height="34" alt="postgres" title="postgres"/>
 
 <a href="https://github.com/RehimMammadov/task-manager"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -327,7 +327,7 @@ Task management with real-time boards and team workspaces, server state via TanS
 
 Appointment booking with calendar sync, email reminders, an admin panel, and Playwright E2E coverage.
 
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres" height="34"/><br/><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/nextjs.svg" height="34" alt="nextjs" title="nextjs"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/nestjs.svg" height="34" alt="nestjs" title="nestjs"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/postgres.svg" height="34" alt="postgres" title="postgres"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/playwright.svg" height="34" alt="playwright" title="playwright"/>
 
 <a href="https://github.com/RehimMammadov/booking-app"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -343,7 +343,7 @@ Appointment booking with calendar sync, email reminders, an admin panel, and Pla
 
 Headless CMS-driven starter for blogs, marketing pages, and docs — out of the box.
 
-<img src="https://skillicons.dev/icons?i=nextjs,laravel" height="34"/><br/><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" />
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/nextjs.svg" height="34" alt="nextjs" title="nextjs"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/laravel.svg" height="34" alt="laravel" title="laravel"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/swagger.svg" height="34" alt="swagger" title="swagger"/>
 
 <a href="https://github.com/RehimMammadov/cms-starter-kit"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Docs-2BDE98?style=for-the-badge&logo=readthedocs&logoColor=black"/></a>
@@ -357,7 +357,7 @@ Headless CMS-driven starter for blogs, marketing pages, and docs — out of the 
 
 Minimal, fast, animated portfolio built with a design-system-first approach.
 
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind" height="34"/><br/><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/nextjs.svg" height="34" alt="nextjs" title="nextjs"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/framer.svg" height="34" alt="framer" title="framer"/> <img src="https://raw.githubusercontent.com/RehimMammadov/RehimMammadov/main/icons/tailwind.svg" height="34" alt="tailwind" title="tailwind"/>
 
 <a href="https://github.com/RehimMammadov/developer-portfolio"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
