@@ -75,7 +75,7 @@ The best code is the code you never had to write — and the code you did write 
 <table width="100%">
 <tr>
 <td width="14%" align="center" valign="middle">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="48"/>
+<img src="https://skillicons.dev/icons?i=react" width="48"/>
 <br/><sub><b>Nov 2025 —<br/>Jul 2026</b></sub>
 </td>
 <td width="86%">
@@ -90,13 +90,13 @@ Built and maintained core customer-facing modules for an enterprise **insurance 
 - 🚀 Improved Core Web Vitals through **Vite** code-splitting and asset optimization
 - 🎨 Built a consistent, responsive design language with **Tailwind CSS**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,ts,php,laravel,vite,tailwind,redux" height="34"/>
+<img src="https://skillicons.dev/icons?i=react,vue,ts,php,laravel,vite,tailwind,redux" height="34"/>
 
 </td>
 </tr>
 <tr>
 <td width="14%" align="center" valign="middle">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="48"/>
+<img src="https://skillicons.dev/icons?i=react" width="48"/>
 <br/><sub><b>Jul 2024 —<br/>Jul 2026</b></sub>
 </td>
 <td width="86%">
@@ -112,13 +112,13 @@ Developed customer-facing features for a **life insurance** web platform using *
 - 🧱 Integrated interactive components into **Blade** views for a hybrid SSR + SPA setup
 - 📈 Reduced bundle size and load times with **Vite** and **Tailwind** purging
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,ts,php,laravel,vite,tailwind,redux" height="34"/>
+<img src="https://skillicons.dev/icons?i=react,vue,ts,php,laravel,vite,tailwind,redux" height="34"/>
 
 </td>
 </tr>
 <tr>
 <td width="14%" align="center" valign="middle">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=angular" width="48"/>
+<img src="https://skillicons.dev/icons?i=angular" width="48"/>
 <br/><sub><b>Feb 2024 —<br/>May 2024</b></sub>
 </td>
 <td width="86%">
@@ -133,13 +133,13 @@ Worked on the web interfaces of **GoldenPay**, an Azerbaijani online payment pro
 - 📱 Delivered responsive, cross-browser layouts with **Bootstrap** and **SCSS**
 - 🔌 Integrated frontend modules with backend payment and reporting APIs
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,ts,rxjs,bootstrap,sass,html,git" height="34"/>
+<img src="https://skillicons.dev/icons?i=angular,ts,reactivex,bootstrap,sass,html,git" height="34"/>
 
 </td>
 </tr>
 <tr>
 <td width="14%" align="center" valign="middle">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=django" width="48"/>
+<img src="https://skillicons.dev/icons?i=django" width="48"/>
 <br/><sub><b>Sep 2023 —<br/>Feb 2024</b></sub>
 </td>
 <td width="86%">
@@ -154,7 +154,7 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 - 🌐 Configured **Nginx** as a reverse proxy and static file server for production
 - 🚀 Shipped fast in a small team, turning product ideas into working features within days
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,html,css,js,docker,nginx,linux" height="34"/>
+<img src="https://skillicons.dev/icons?i=py,django,html,css,js,docker,nginx,linux" height="34"/>
 
 </td>
 </tr>
@@ -165,35 +165,35 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 <table width="100%">
 <tr>
 <td width="22%" align="center"><b>🎨 Frontend Core</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,ts,js,html,css,vue,angular,vite,webpack,babel&perline=12" /></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,vue,angular,vite,webpack,babel&perline=12" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>🗃️ State & Data</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=redux,zustand,tanstack,apollo,graphql,axios,reactrouter,socketio&perline=12" /></td>
+<td><img src="https://skillicons.dev/icons?i=redux,apollo,graphql&perline=12" /><br/><img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" /> <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>💅 Styling & UI</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,sass,styledcomponents,emotion,materialui,bootstrap,shadcn,radix,framer,storybook,chartjs&perline=12" /></td>
+<td><img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,emotion,materialui,bootstrap&perline=12" /><br/><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" /> <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>🧪 Testing</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=jest,vitest,testinglibrary,playwright,cypress,selenium,lighthouse&perline=12" /></td>
+<td><img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium&perline=12" /><br/><img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>🔄 CI/CD & DevOps</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,gitlab,docker,kubernetes,openshift,apache,linux,wsl,oracle,aws,terraform,cloudflare&perline=12" /></td>
+<td><img src="https://skillicons.dev/icons?i=githubactions,gitlab,docker,kubernetes,openshift,apache,linux,aws,terraform,cloudflare&perline=12" /><br/><img src="https://img.shields.io/badge/WSL-0078D6?style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>⚙️ Backend</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,express,php,laravel,python,django,fastapi,java,spring,kafka,rabbitmq&perline=12" /></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,py,django,fastapi,java,spring,kafka,rabbitmq&perline=12" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>🗄️ Databases</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,prisma,sequelize&perline=12" /></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,prisma,sequelize&perline=12" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>🧰 Tools & Quality</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier,git,github,npm,yarn,pnpm,postman,swagger,figma,notion,sentry&perline=12" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,npm,yarn,pnpm,postman,figma,notion,sentry&perline=12" /><br/><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /></td>
 </tr>
 </table>
 
@@ -202,19 +202,19 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 <div align="center">
 <table>
 <tr>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="44"/><br/><sub>Commit</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="44"/><br/><sub>Commit</sub></td>
 <td align="center">➜</td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=eslint" width="44"/><br/><sub>Lint</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" /><br/><sub>Lint</sub></td>
 <td align="center">➜</td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" width="44"/><br/><sub>Type-check</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="44"/><br/><sub>Type-check</sub></td>
 <td align="center">➜</td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=jest" width="44"/><br/><sub>Unit</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jest" width="44"/><br/><sub>Unit</sub></td>
 <td align="center">➜</td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=playwright" width="44"/><br/><sub>E2E</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /><br/><sub>E2E</sub></td>
 <td align="center">➜</td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="44"/><br/><sub>Build</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="44"/><br/><sub>Build</sub></td>
 <td align="center">➜</td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="44"/><br/><sub>Deploy</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="44"/><br/><sub>Deploy</sub></td>
 </tr>
 </table>
 </div>
@@ -254,7 +254,7 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 
 Admin dashboard for orders, inventory, and analytics with real-time charts and role-based access.
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,chartjs,tailwind" height="34"/>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="34"/><br/><img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
 
 <a href="https://github.com/RehimMammadov/ecommerce-dashboard"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -268,7 +268,7 @@ Admin dashboard for orders, inventory, and analytics with real-time charts and r
 
 Enterprise insurance web platform: policy management, claims, CMS, authentication, and payments.
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,laravel,swagger" height="34"/>
+<img src="https://skillicons.dev/icons?i=react,ts,laravel" height="34"/><br/><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Private_Repo-30363D?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -283,7 +283,7 @@ Enterprise insurance web platform: policy management, claims, CMS, authenticatio
 
 Full-stack messaging app with rooms, typing indicators, and message history over WebSockets.
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nestjs,socketio,mongodb" height="34"/>
+<img src="https://skillicons.dev/icons?i=react,nestjs,mongodb" height="34"/><br/><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 
 <a href="https://github.com/RehimMammadov/realtime-chat"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -297,7 +297,7 @@ Full-stack messaging app with rooms, typing indicators, and message history over
 
 Accessible React component library with Storybook docs, theming, and full test coverage.
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,storybook,testinglibrary,tailwind" height="34"/>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="34"/><br/><img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" /> <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" />
 
 <a href="https://github.com/RehimMammadov/component-library"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Docs-2BDE98?style=for-the-badge&logo=storybook&logoColor=black"/></a>
@@ -313,7 +313,7 @@ Accessible React component library with Storybook docs, theming, and full test c
 
 Task management with real-time boards and team workspaces, server state via TanStack Query and UI state via Zustand.
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,tanstack,zustand,nestjs,postgres" height="34"/>
+<img src="https://skillicons.dev/icons?i=react,nestjs,postgres" height="34"/><br/><img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
 
 <a href="https://github.com/RehimMammadov/task-manager"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -327,7 +327,7 @@ Task management with real-time boards and team workspaces, server state via TanS
 
 Appointment booking with calendar sync, email reminders, an admin panel, and Playwright E2E coverage.
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,nestjs,postgres,playwright" height="34"/>
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres" height="34"/><br/><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 
 <a href="https://github.com/RehimMammadov/booking-app"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -343,7 +343,7 @@ Appointment booking with calendar sync, email reminders, an admin panel, and Pla
 
 Headless CMS-driven starter for blogs, marketing pages, and docs — out of the box.
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,laravel,swagger" height="34"/>
+<img src="https://skillicons.dev/icons?i=nextjs,laravel" height="34"/><br/><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" />
 
 <a href="https://github.com/RehimMammadov/cms-starter-kit"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Docs-2BDE98?style=for-the-badge&logo=readthedocs&logoColor=black"/></a>
@@ -357,7 +357,7 @@ Headless CMS-driven starter for blogs, marketing pages, and docs — out of the 
 
 Minimal, fast, animated portfolio built with a design-system-first approach.
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,framer,tailwind" height="34"/>
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind" height="34"/><br/><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 
 <a href="https://github.com/RehimMammadov/developer-portfolio"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2BDE98?style=for-the-badge&logo=vercel&logoColor=black"/></a>
