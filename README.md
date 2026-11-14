@@ -169,19 +169,19 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 </tr>
 <tr>
 <td width="22%" align="center"><b>🗃️ State & Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=redux,apollo,graphql&perline=12" /><br/><img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" /> <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" /></td>
+<td><img src="https://skillicons.dev/icons?i=redux,apollo,graphql&perline=12" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>💅 Styling & UI</b></td>
-<td><img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,emotion,materialui,bootstrap&perline=12" /><br/><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" /> <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" /></td>
+<td><img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,emotion,materialui,bootstrap&perline=12" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>🧪 Testing</b></td>
-<td><img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium&perline=12" /><br/><img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white" /></td>
+<td><img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium&perline=12" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>🔄 CI/CD & DevOps</b></td>
-<td><img src="https://skillicons.dev/icons?i=githubactions,gitlab,docker,kubernetes,openshift,apache,linux,aws,terraform,cloudflare&perline=12" /><br/><img src="https://img.shields.io/badge/WSL-0078D6?style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /></td>
+<td><img src="https://skillicons.dev/icons?i=githubactions,gitlab,docker,kubernetes,openshift,apache,linux,aws,terraform,cloudflare&perline=12" /></td>
 </tr>
 <tr>
 <td width="22%" align="center"><b>⚙️ Backend</b></td>
@@ -193,7 +193,7 @@ Early full-stack engineer at **Bamper Az**, a startup where I owned features end
 </tr>
 <tr>
 <td width="22%" align="center"><b>🧰 Tools & Quality</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,npm,yarn,pnpm,postman,figma,notion,sentry&perline=12" /><br/><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,npm,yarn,pnpm,postman,figma,notion,sentry&perline=12" /></td>
 </tr>
 </table>
 
